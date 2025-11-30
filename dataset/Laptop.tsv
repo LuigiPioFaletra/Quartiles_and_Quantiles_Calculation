@@ -1,0 +1,995 @@
+CompanyName	TypeOfLaptop	ScreenResolution	Cpu	RamInGB	Memory	Gpu	OpSys
+MSI	2 in 1 Convertible	HD 1920x1080 	Intel Core i7	1	256GB PCIe SSD	AMD Radeon RX 5600M	Linux
+Acer	NoteBook	Full HD	Intel Core i5	1	1TB Fusion Drive	NVIDIA GeForce GTX 1650	macOS
+Microsoft	UltraBook	4K	Intel Xeon E3-1505M 	1	6TB HDD	NVIDIA GeForce GTX 1650	Linux
+hp	WorkStation	2K	AMD Ryzen 5	1	1TB Fusion Drive	AMD Radeon RX 5600M	No OS
+MSI	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	1	512 GB eMMC	AMD Radeon RX 5600M	No OS
+Asus	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	1	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 10
+hp	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i9	1	256GB Flash Storage	AMD Radeon RX 5600M	No OS
+Dell	WorkStation	Full HD	AMD Ryzen 7	1	1TB SSHD	AMD Radeon RX 5600M	Linux
+hp	NoteBook	Full HD	AMD Ryzen 7	1	256GB SSD	Intel Iris Xe Graphics	No OS
+Microsoft	Business Laptop	2K	Intel Core i5	1	512 GB NVMe SSD	AMD Radeon RX 5600M	No OS
+MSI	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	1	256GB Flash Storage	AMD Radeon RX 5600M	macOS
+Acer	2 in 1 Convertible	4K	Intel Core i7	1	2TB SATA SSD	AMD Radeon RX 5600M	Windows 10
+lenevo	NoteBook	IPS Panel Retina Display 2560x1600	AMD Ryzen 5	1	1TB Fusion Drive	NVIDIA GeForce GTX 1650	No OS
+Asus	UltraBook	2K	Intel Core i9	1	1TB Fusion Drive	Intel Iris Xe Graphics	No OS
+Acer	2 in 1 Convertible	Full HD	Intel Atom x5-Z8550	1	1TB Fusion Drive	NVIDIA GeForce GTX 1650	Linux
+lenevo	WorkStation	HD 1920x1080 	Intel Xeon E3-1505M 	1	1TB SSHD	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	Business Laptop	HD 1920x1080 	Intel Core i7	1	256GB eMMC	Intel Iris Xe Graphics	Windows 11
+hp	NoteBook	4K	Intel Core i5	1	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	Linux
+lenevo	2 in 1 Convertible	2K	Intel Xeon E3-1505M 	1	1TB HDD	AMD Radeon RX 5600M	No OS
+Asus	WorkStation	Full HD	AMD Ryzen 7	1	128 GB SSD	Intel Iris Xe Graphics	Linux
+lenevo	NoteBook	Full HD	Intel Pentium Quad Core N4200	1	1TB NVMe SSD	Intel Iris Xe Graphics	Linux
+hp	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i7	1	256GB SSD	AMD Radeon RX 5600M	macOS
+hp	UltraBook	HD 1920x1080 	Intel Atom x5-Z8550	1	1TB SSHD	Intel Iris Xe Graphics	Windows 10
+hp	UltraBook	HD 1920x1080 	Intel Pentium Quad Core N4200	1	128 GB SSD	Intel Iris Xe Graphics	Linux
+Chuwi	WorkStation	4K	Intel Pentium Quad Core N4200	1	512 GB SSD	Intel Iris Xe Graphics	macOS
+Acer	UltraBook	HD 1920x1080 	Intel Celeron Dual Core 3855U 	1	1TB NVMe SSD	AMD Radeon RX 5600M	macOS
+Dell	2 in 1 Convertible	4K	AMD Ryzen 5	2	1TB SSHD	Intel Iris Xe Graphics	macOS
+Asus	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	2	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 10
+Acer	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	2	1TB NVMe SSD	AMD Radeon RX 5600M	Windows 11
+hp	WorkStation	HD 1920x1080 	Intel Celeron Dual Core 3855U 	2	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	NoteBook	HD 1920x1080 	AMD Ryzen 5	2	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	No OS
+hp	UltraBook	Full HD	Intel Core i5	2	2TB NVMe SSD	AMD Radeon RX 5600M	Windows 11
+MSI	WorkStation	2K	Intel Xeon E3-1505M 	2	128 GB PCIe SSD	Intel Iris Xe Graphics	No OS
+Dell	Gaming	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	2	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	Business Laptop	2K	Intel Core i5	2	2TB SATA SSD	AMD Radeon RX 5600M	Linux
+Asus	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i9	2	1TB HDD	AMD Radeon RX 5600M	Windows 10
+Microsoft	NoteBook	HD 1920x1080 	Intel Xeon E3-1505M 	2	256GB Flash Storage	Intel Iris Xe Graphics	Windows 10
+Apple	NoteBook	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	2	1TB HDD	Intel Iris Xe Graphics	macOS
+Asus	UltraBook	4K	Intel Atom x5-Z8550	2	6TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+hp	2 in 1 Convertible	2K	Intel Atom x5-Z8550	2	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+hp	UltraBook	HD 1920x1080 	Intel Xeon E3-1505M 	2	4TB HDD	AMD Radeon RX 5600M	Linux
+Asus	Gaming	Full HD	AMD A9-Series 9420	2	1TB Fusion Drive	AMD Radeon RX 5600M	Linux
+Chuwi	Gaming	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	2	1TB Fusion Drive	AMD Radeon RX 5600M	macOS
+Dell	WorkStation	Full HD	AMD Ryzen 7	2	4TB HDD	AMD Radeon RX 5600M	Linux
+lenevo	WorkStation	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	2	2TB HDD	AMD Radeon RX 5600M	Linux
+Dell	Business Laptop	HD 1920x1080 	Intel Core i9	2	128 GB SSD	NVIDIA GeForce GTX 1650	Linux
+Dell	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	2	2TB SATA SSD	AMD Radeon RX 5600M	Linux
+Dell	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	2	2TB SATA SSD	NVIDIA GeForce GTX 1650	macOS
+MSI	Business Laptop	Full HD	Intel Atom x5-Z8550	2	1TB NVMe SSD	Intel Iris Xe Graphics	Windows 11
+Acer	WorkStation	2K	Intel Atom x5-Z8550	2	6TB HDD	NVIDIA GeForce GTX 1650	No OS
+Dell	NoteBook	HD 1920x1080 	Intel Core i5	2	256GB PCIe SSD	Intel Iris Xe Graphics	No OS
+Apple	2 in 1 Convertible	2K	Intel Core i7	2	2TB SATA SSD	AMD Radeon RX 5600M	Windows 10
+MSI	NoteBook	Full HD	Intel Core i5	2	256GB SSD	AMD Radeon RX 5600M	No OS
+Microsoft	2 in 1 Convertible	2K	Intel Core i7	2	6TB HDD	Intel Iris Xe Graphics	Windows 11
+Microsoft	2 in 1 Convertible	Full HD	AMD Ryzen 5	2	1TB SSHD	Intel Iris Xe Graphics	Windows 10
+Acer	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	2	1TB SSHD	AMD Radeon RX 5600M	Windows 11
+MSI	2 in 1 Convertible	HD 1920x1080 	Intel Pentium Quad Core N4200	2	2TB SATA SSD	Intel Iris Xe Graphics	macOS
+MSI	Business Laptop	HD 1920x1080 	Intel Celeron Dual Core 3855U 	3	256GB Flash Storage	Intel Iris Xe Graphics	Windows 11
+MSI	UltraBook	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	3	256GB PCIe SSD	AMD Radeon RX 5600M	No OS
+Chuwi	NoteBook	HD 1920x1080 	Intel Xeon E3-1505M 	3	512 GB eMMC	AMD Radeon RX 5600M	Windows 11
+Asus	WorkStation	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	3	512 GB NVMe SSD	Intel Iris Xe Graphics	No OS
+Microsoft	Business Laptop	Full HD	Intel Pentium Quad Core N4200	3	256GB eMMC	NVIDIA GeForce GTX 1650	No OS
+Apple	NoteBook	2K	Intel Core i9	3	1TB HDD	NVIDIA GeForce GTX 1650	Linux
+MSI	Gaming	2K	AMD Ryzen 5	3	256GB SSD	NVIDIA GeForce GTX 1650	Windows 10
+Asus	Business Laptop	Full HD	Intel Core i5	3	4TB HDD	AMD Radeon RX 5600M	Windows 11
+lenevo	NoteBook	4K	Intel Celeron Dual Core 3855U 	3	2TB HDD	Intel Iris Xe Graphics	macOS
+Acer	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	3	512 GB eMMC	Intel Iris Xe Graphics	Windows 10
+lenevo	Business Laptop	2K	Intel Atom x5-Z8550	3	2TB HDD	NVIDIA GeForce GTX 1650	macOS
+Dell	Gaming	2K	AMD Ryzen 7	3	2TB SATA SSD	AMD Radeon RX 5600M	No OS
+MSI	2 in 1 Convertible	HD 1920x1080 	Intel Atom x5-Z8550	3	1TB HDD	AMD Radeon RX 5600M	macOS
+Microsoft	2 in 1 Convertible	2K	Intel Celeron Dual Core 3855U 	3	1TB Fusion Drive	AMD Radeon RX 5600M	Linux
+Chuwi	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	3	6TB HDD	AMD Radeon RX 5600M	Windows 11
+lenevo	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	3	1TB SSHD	Intel Iris Xe Graphics	Linux
+Asus	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	3	512 GB SSD	Intel Iris Xe Graphics	No OS
+Dell	Gaming	Full HD	Intel Pentium Quad Core N4200	3	1TB HDD	NVIDIA GeForce GTX 1650	macOS
+Chuwi	Business Laptop	HD 1920x1080 	Intel Xeon E3-1505M 	3	1TB SSHD	NVIDIA GeForce GTX 1650	Linux
+Dell	NoteBook	HD 1920x1080 	Intel Pentium Quad Core N4200	3	2TB NVMe SSD	Intel Iris Xe Graphics	macOS
+lenevo	UltraBook	Full HD	AMD Ryzen 5	3	6TB HDD	Intel Iris Xe Graphics	Windows 11
+Microsoft	WorkStation	2K	Intel Celeron Dual Core 3855U 	3	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Linux
+Asus	2 in 1 Convertible	4K	Intel Celeron Dual Core 3855U 	3	1TB HDD	AMD Radeon RX 5600M	Windows 11
+hp	NoteBook	Full HD	Intel Xeon E3-1505M 	3	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+Dell	UltraBook	2K	AMD Ryzen 5	3	512 GB SSD	AMD Radeon RX 5600M	Linux
+Asus	2 in 1 Convertible	2K	Intel Core i5	3	256GB SSD	NVIDIA GeForce GTX 1650	Windows 10
+Chuwi	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	3	2TB SATA SSD	NVIDIA GeForce GTX 1650	Linux
+Acer	NoteBook	2K	AMD Ryzen 7	3	2TB HDD	AMD Radeon RX 5600M	macOS
+Microsoft	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Core i5	3	1TB Fusion Drive	Intel Iris Xe Graphics	Windows 11
+MSI	Gaming	IPS Panel Retina Display 2560x1600	Intel Core i7	3	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Linux
+lenevo	Business Laptop	HD 1920x1080 	Intel Xeon E3-1505M 	4	2TB NVMe SSD	AMD Radeon RX 5600M	Linux
+Apple	2 in 1 Convertible	4K	Intel Core i7	4	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+Chuwi	Business Laptop	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	4	128 GB SSD	Intel Iris Xe Graphics	Linux
+hp	Business Laptop	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	4	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+Apple	2 in 1 Convertible	2K	Intel Xeon E3-1505M 	4	128 GB SSD	NVIDIA GeForce GTX 1650	macOS
+lenevo	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Xeon E3-1505M 	4	1TB HDD	Intel Iris Xe Graphics	No OS
+Dell	WorkStation	IPS Panel Retina Display 2560x1600	AMD Ryzen 5	4	256GB eMMC	Intel Iris Xe Graphics	Linux
+MSI	NoteBook	2K	AMD A9-Series 9420	4	2TB HDD	AMD Radeon RX 5600M	Linux
+Asus	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i5	4	512 GB SSD	Intel Iris Xe Graphics	Linux
+Asus	Gaming	2K	Intel Core i5	4	6TB HDD	AMD Radeon RX 5600M	Linux
+lenevo	WorkStation	Full HD	AMD Ryzen 5	4	1TB HDD	NVIDIA GeForce GTX 1650	macOS
+Chuwi	WorkStation	Full HD	Intel Core i5	4	512 GB SSD	AMD Radeon RX 5600M	Windows 10
+Acer	Business Laptop	Full HD	Intel Xeon E3-1505M 	4	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+MSI	2 in 1 Convertible	Full HD	AMD A9-Series 9420	4	4TB HDD	Intel Iris Xe Graphics	No OS
+Dell	UltraBook	4K	Intel Core i9	4	512 GB eMMC	Intel Iris Xe Graphics	Windows 10
+Dell	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Core i9	4	512 GB eMMC	Intel Iris Xe Graphics	Windows 11
+Acer	NoteBook	HD 1920x1080 	Intel Core i9	4	1TB HDD	Intel Iris Xe Graphics	No OS
+Microsoft	NoteBook	2K	Intel Core i5	4	1TB SSHD	AMD Radeon RX 5600M	Linux
+Apple	Gaming	Full HD	Intel Pentium Quad Core N4200	4	1TB NVMe SSD	Intel Iris Xe Graphics	No OS
+Microsoft	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Core i9	4	512 GB eMMC	NVIDIA GeForce GTX 1650	No OS
+Asus	Gaming	HD 1920x1080 	Intel Celeron Dual Core 3855U 	4	1TB HDD	Intel Iris Xe Graphics	Windows 11
+Chuwi	Business Laptop	4K	AMD Ryzen 5	4	256GB Flash Storage	AMD Radeon RX 5600M	No OS
+Apple	WorkStation	2K	Intel Atom x5-Z8550	4	1TB SSHD	AMD Radeon RX 5600M	No OS
+lenevo	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	4	512 GB NVMe SSD	AMD Radeon RX 5600M	macOS
+Apple	WorkStation	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	4	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 11
+hp	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	4	2TB SATA SSD	Intel Iris Xe Graphics	Linux
+Asus	2 in 1 Convertible	Full HD	AMD Ryzen 5	4	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 11
+MSI	UltraBook	4K	AMD Ryzen 7	4	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Apple	NoteBook	2K	Intel Core i9	4	2TB NVMe SSD	AMD Radeon RX 5600M	Windows 11
+lenevo	WorkStation	Full HD	Intel Core i7	4	2TB HDD	Intel Iris Xe Graphics	Windows 11
+Asus	UltraBook	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	4	256GB SSD	NVIDIA GeForce GTX 1650	macOS
+hp	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	4	512 GB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+Chuwi	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	5	256GB eMMC	NVIDIA GeForce GTX 1650	Linux
+Acer	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	5	256GB Flash Storage	AMD Radeon RX 5600M	macOS
+Asus	WorkStation	4K	Intel Core i5	5	512 GB SSD	Intel Iris Xe Graphics	No OS
+hp	2 in 1 Convertible	4K	Intel Core i9	5	512 GB SSD	Intel Iris Xe Graphics	macOS
+hp	NoteBook	4K	Intel Core i5	5	4TB HDD	Intel Iris Xe Graphics	Linux
+MSI	Gaming	2K	AMD A9-Series 9420	5	1TB NVMe SSD	AMD Radeon RX 5600M	Linux
+Chuwi	Business Laptop	2K	Intel Core i9	5	1TB Fusion Drive	AMD Radeon RX 5600M	No OS
+Acer	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	5	2TB SATA SSD	Intel Iris Xe Graphics	Linux
+Microsoft	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	5	2TB SATA SSD	NVIDIA GeForce GTX 1650	No OS
+Asus	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	5	256GB PCIe SSD	NVIDIA GeForce GTX 1650	No OS
+Asus	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i7	5	1TB Fusion Drive	AMD Radeon RX 5600M	Windows 10
+Chuwi	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	5	128 GB SSD	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	UltraBook	4K	AMD Ryzen 7	5	2TB SATA SSD	Intel Iris Xe Graphics	Linux
+Asus	WorkStation	Full HD	Intel Celeron Dual Core 3855U 	5	256GB PCIe SSD	AMD Radeon RX 5600M	No OS
+hp	WorkStation	4K	AMD A9-Series 9420	5	512 GB eMMC	Intel Iris Xe Graphics	No OS
+Microsoft	Business Laptop	4K	Intel Core i5	5	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 10
+Chuwi	Business Laptop	2K	Intel Core i9	5	4TB HDD	AMD Radeon RX 5600M	Windows 11
+Apple	Gaming	4K	AMD Ryzen 5	5	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 11
+Chuwi	NoteBook	HD 1920x1080 	AMD Ryzen 7	5	128 GB SSD	NVIDIA GeForce GTX 1650	macOS
+Apple	Business Laptop	IPS Panel Retina Display 2560x1600	AMD Ryzen 5	5	6TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Microsoft	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	5	2TB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+Dell	Gaming	4K	AMD A9-Series 9420	5	1TB SSHD	Intel Iris Xe Graphics	No OS
+MSI	Business Laptop	HD 1920x1080 	Intel Pentium Quad Core N4200	5	512 GB eMMC	NVIDIA GeForce GTX 1650	Windows 10
+Dell	Gaming	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	5	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 11
+hp	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	5	1TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+hp	NoteBook	Full HD	Intel Xeon E3-1505M 	5	2TB SATA SSD	AMD Radeon RX 5600M	Windows 11
+Acer	UltraBook	2K	AMD Ryzen 5	5	128 GB SSD	AMD Radeon RX 5600M	No OS
+Asus	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	5	1TB SSHD	Intel Iris Xe Graphics	Linux
+Asus	Gaming	4K	Intel Xeon E3-1505M 	5	256GB eMMC	Intel Iris Xe Graphics	Windows 11
+lenevo	WorkStation	4K	AMD Ryzen 7	6	512 GB eMMC	NVIDIA GeForce GTX 1650	No OS
+hp	Gaming	2K	Intel Core i7	6	1TB NVMe SSD	Intel Iris Xe Graphics	Windows 11
+Asus	Business Laptop	HD 1920x1080 	Intel Core i5	6	512 GB eMMC	AMD Radeon RX 5600M	Windows 10
+Chuwi	WorkStation	Full HD	Intel Atom x5-Z8550	6	4TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Apple	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	6	256GB SSD	Intel Iris Xe Graphics	macOS
+MSI	2 in 1 Convertible	Full HD	AMD Ryzen 7	6	1TB NVMe SSD	AMD Radeon RX 5600M	No OS
+Acer	Business Laptop	2K	AMD Ryzen 5	6	4TB HDD	AMD Radeon RX 5600M	No OS
+Chuwi	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	6	6TB HDD	NVIDIA GeForce GTX 1650	Linux
+Dell	Gaming	4K	Intel Pentium Quad Core N4200	6	128 GB SSD	AMD Radeon RX 5600M	No OS
+Acer	Business Laptop	4K	AMD Ryzen 5	6	1TB HDD	AMD Radeon RX 5600M	Windows 10
+lenevo	NoteBook	4K	Intel Xeon E3-1505M 	6	1TB NVMe SSD	Intel Iris Xe Graphics	Linux
+hp	Business Laptop	2K	Intel Core i5	6	256GB PCIe SSD	AMD Radeon RX 5600M	macOS
+Apple	WorkStation	4K	Intel Xeon E3-1505M 	6	1TB NVMe SSD	AMD Radeon RX 5600M	macOS
+Microsoft	UltraBook	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	6	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+Apple	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	6	2TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+Dell	Business Laptop	Full HD	AMD Ryzen 7	6	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Dell	WorkStation	2K	Intel Core i9	6	1TB SSHD	AMD Radeon RX 5600M	Windows 10
+MSI	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	6	2TB SATA SSD	AMD Radeon RX 5600M	No OS
+lenevo	NoteBook	2K	Intel Core i9	6	128 GB SSD	AMD Radeon RX 5600M	macOS
+MSI	Business Laptop	Full HD	Intel Pentium Quad Core N4200	6	1TB HDD	AMD Radeon RX 5600M	No OS
+MSI	WorkStation	Full HD	AMD Ryzen 5	6	256GB Flash Storage	AMD Radeon RX 5600M	Windows 11
+Asus	UltraBook	Full HD	Intel Xeon E3-1505M 	6	1TB NVMe SSD	Intel Iris Xe Graphics	Windows 11
+Chuwi	Business Laptop	2K	Intel Core i5	6	2TB HDD	AMD Radeon RX 5600M	Windows 10
+MSI	2 in 1 Convertible	4K	AMD Ryzen 5	6	1TB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+Apple	NoteBook	HD 1920x1080 	AMD Ryzen 5	6	2TB NVMe SSD	AMD Radeon RX 5600M	Windows 11
+hp	2 in 1 Convertible	HD 1920x1080 	Intel Atom x5-Z8550	6	1TB HDD	AMD Radeon RX 5600M	Windows 10
+Asus	2 in 1 Convertible	4K	Intel Core i9	6	512 GB SSD	AMD Radeon RX 5600M	macOS
+MSI	UltraBook	Full HD	Intel Core i5	6	1TB HDD	Intel Iris Xe Graphics	No OS
+Acer	2 in 1 Convertible	2K	Intel Celeron Dual Core 3855U 	6	1TB HDD	AMD Radeon RX 5600M	macOS
+lenevo	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	6	2TB HDD	NVIDIA GeForce GTX 1650	macOS
+Microsoft	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	6	2TB NVMe SSD	Intel Iris Xe Graphics	Windows 11
+hp	UltraBook	4K	AMD Ryzen 5	6	4TB HDD	AMD Radeon RX 5600M	No OS
+MSI	NoteBook	HD 1920x1080 	Intel Atom x5-Z8550	6	2TB NVMe SSD	AMD Radeon RX 5600M	No OS
+lenevo	NoteBook	HD 1920x1080 	AMD Ryzen 7	6	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Acer	2 in 1 Convertible	Full HD	Intel Atom x5-Z8550	7	128 GB SSD	NVIDIA GeForce GTX 1650	No OS
+lenevo	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	7	6TB HDD	NVIDIA GeForce GTX 1650	No OS
+Acer	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	7	256GB PCIe SSD	NVIDIA GeForce GTX 1650	No OS
+Acer	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	7	2TB NVMe SSD	Intel Iris Xe Graphics	No OS
+Microsoft	UltraBook	2K	Intel Xeon E3-1505M 	7	512 GB NVMe SSD	AMD Radeon RX 5600M	Linux
+lenevo	UltraBook	HD 1920x1080 	Intel Pentium Quad Core N4200	7	1TB Fusion Drive	Intel Iris Xe Graphics	No OS
+Chuwi	2 in 1 Convertible	Full HD	AMD Ryzen 5	7	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Acer	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	7	1TB HDD	NVIDIA GeForce GTX 1650	Linux
+Dell	2 in 1 Convertible	2K	Intel Xeon E3-1505M 	7	512 GB SSD	NVIDIA GeForce GTX 1650	Linux
+lenevo	UltraBook	Full HD	Intel Xeon E3-1505M 	7	256GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+Chuwi	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	7	512 GB NVMe SSD	Intel Iris Xe Graphics	Linux
+lenevo	WorkStation	2K	Intel Celeron Dual Core 3855U 	7	1TB HDD	NVIDIA GeForce GTX 1650	macOS
+MSI	WorkStation	2K	Intel Core i5	7	2TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Acer	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	7	2TB SATA SSD	NVIDIA GeForce GTX 1650	macOS
+Apple	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	7	2TB HDD	AMD Radeon RX 5600M	No OS
+Asus	UltraBook	HD 1920x1080 	Intel Pentium Quad Core N4200	7	6TB HDD	AMD Radeon RX 5600M	macOS
+Microsoft	Business Laptop	HD 1920x1080 	Intel Core i7	7	256GB SSD	Intel Iris Xe Graphics	No OS
+Chuwi	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	7	2TB SATA SSD	AMD Radeon RX 5600M	Linux
+lenevo	NoteBook	4K	Intel Atom x5-Z8550	7	1TB NVMe SSD	AMD Radeon RX 5600M	Windows 11
+lenevo	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Core i7	7	256GB SSD	AMD Radeon RX 5600M	Linux
+Asus	NoteBook	4K	Intel Core i5	7	1TB HDD	AMD Radeon RX 5600M	macOS
+Chuwi	WorkStation	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	7	512 GB SSD	Intel Iris Xe Graphics	No OS
+lenevo	Business Laptop	HD 1920x1080 	Intel Core i9	7	6TB HDD	AMD Radeon RX 5600M	Windows 10
+MSI	NoteBook	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	7	1TB Fusion Drive	NVIDIA GeForce GTX 1650	No OS
+Asus	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Core i5	7	1TB Fusion Drive	Intel Iris Xe Graphics	No OS
+MSI	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	7	128 GB PCIe SSD	Intel Iris Xe Graphics	Linux
+Apple	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	7	1TB SSHD	AMD Radeon RX 5600M	Linux
+Microsoft	UltraBook	HD 1920x1080 	Intel Atom x5-Z8550	8	256GB SSD	NVIDIA GeForce GTX 1650	macOS
+Asus	2 in 1 Convertible	2K	AMD Ryzen 7	8	512 GB NVMe SSD	Intel Iris Xe Graphics	macOS
+lenevo	WorkStation	HD 1920x1080 	AMD Ryzen 7	8	1TB SSHD	NVIDIA GeForce GTX 1650	macOS
+Chuwi	WorkStation	Full HD	Intel Core i5	8	256GB PCIe SSD	AMD Radeon RX 5600M	No OS
+Chuwi	UltraBook	4K	Intel Pentium Quad Core N4200	8	1TB SSHD	Intel Iris Xe Graphics	Windows 10
+Microsoft	Gaming	HD 1920x1080 	Intel Celeron Dual Core 3855U 	8	1TB HDD	Intel Iris Xe Graphics	No OS
+MSI	NoteBook	4K	AMD A9-Series 9420	8	256GB SSD	AMD Radeon RX 5600M	Windows 11
+Microsoft	Gaming	Full HD	Intel Pentium Quad Core N4200	8	1TB SSHD	AMD Radeon RX 5600M	No OS
+Microsoft	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	8	256GB eMMC	Intel Iris Xe Graphics	Linux
+Apple	Gaming	2K	Intel Atom x5-Z8550	8	256GB eMMC	AMD Radeon RX 5600M	Windows 11
+Chuwi	NoteBook	HD 1920x1080 	Intel Pentium Quad Core N4200	8	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Linux
+Apple	Gaming	Full HD	AMD A9-Series 9420	8	512 GB NVMe SSD	AMD Radeon RX 5600M	macOS
+lenevo	2 in 1 Convertible	HD 1920x1080 	AMD Ryzen 7	8	512 GB SSD	NVIDIA GeForce GTX 1650	No OS
+hp	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	8	512 GB eMMC	Intel Iris Xe Graphics	No OS
+lenevo	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i9	8	2TB HDD	NVIDIA GeForce GTX 1650	Linux
+MSI	WorkStation	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	8	1TB NVMe SSD	Intel Iris Xe Graphics	Linux
+lenevo	UltraBook	HD 1920x1080 	Intel Xeon E3-1505M 	8	2TB NVMe SSD	NVIDIA GeForce GTX 1650	No OS
+Dell	Gaming	4K	Intel Xeon E3-1505M 	8	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+Microsoft	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	8	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 10
+Chuwi	NoteBook	Full HD	Intel Xeon E3-1505M 	8	256GB Flash Storage	AMD Radeon RX 5600M	Windows 10
+Asus	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Core i7	8	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	Linux
+lenevo	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	8	512 GB eMMC	NVIDIA GeForce GTX 1650	macOS
+Acer	Gaming	2K	Intel Pentium Quad Core N4200	8	256GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+Acer	Business Laptop	4K	Intel Atom x5-Z8550	8	512 GB SSD	Intel Iris Xe Graphics	Windows 10
+Microsoft	2 in 1 Convertible	2K	Intel Celeron Dual Core 3855U 	8	1TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+hp	2 in 1 Convertible	2K	Intel Core i9	8	256GB eMMC	AMD Radeon RX 5600M	macOS
+MSI	WorkStation	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	8	128 GB PCIe SSD	Intel Iris Xe Graphics	Windows 10
+Chuwi	Business Laptop	2K	Intel Core i9	8	256GB SSD	Intel Iris Xe Graphics	Windows 11
+Microsoft	WorkStation	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	8	256GB PCIe SSD	AMD Radeon RX 5600M	macOS
+Apple	2 in 1 Convertible	Full HD	Intel Core i5	8	256GB Flash Storage	Intel Iris Xe Graphics	macOS
+lenevo	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	8	2TB SATA SSD	Intel Iris Xe Graphics	No OS
+Asus	UltraBook	2K	AMD A9-Series 9420	8	512 GB SSD	NVIDIA GeForce GTX 1650	macOS
+Microsoft	Gaming	HD 1920x1080 	Intel Core i5	8	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Apple	WorkStation	4K	AMD Ryzen 5	8	128 GB PCIe SSD	Intel Iris Xe Graphics	macOS
+Dell	UltraBook	Full HD	Intel Atom x5-Z8550	8	512 GB SSD	NVIDIA GeForce GTX 1650	Windows 11
+Chuwi	WorkStation	Full HD	Intel Atom x5-Z8550	8	512 GB eMMC	Intel Iris Xe Graphics	macOS
+MSI	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	8	256GB PCIe SSD	NVIDIA GeForce GTX 1650	No OS
+Microsoft	NoteBook	HD 1920x1080 	Intel Core i9	8	2TB SATA SSD	Intel Iris Xe Graphics	No OS
+Dell	NoteBook	Full HD	Intel Celeron Dual Core 3855U 	8	4TB HDD	Intel Iris Xe Graphics	No OS
+hp	WorkStation	Full HD	Intel Xeon E3-1505M 	9	1TB HDD	Intel Iris Xe Graphics	Linux
+Microsoft	Gaming	Full HD	Intel Core i5	9	512 GB SSD	AMD Radeon RX 5600M	Windows 10
+lenevo	NoteBook	2K	Intel Xeon E3-1505M 	9	512 GB SSD	Intel Iris Xe Graphics	Windows 11
+Microsoft	UltraBook	Full HD	AMD A9-Series 9420	9	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	No OS
+Microsoft	Gaming	2K	AMD Ryzen 5	9	512 GB NVMe SSD	Intel Iris Xe Graphics	Windows 11
+Apple	UltraBook	2K	Intel Core i7	9	4TB HDD	NVIDIA GeForce GTX 1650	No OS
+Apple	Business Laptop	4K	Intel Core i7	9	256GB Flash Storage	Intel Iris Xe Graphics	No OS
+Asus	Gaming	2K	Intel Celeron Dual Core 3855U 	9	256GB eMMC	AMD Radeon RX 5600M	No OS
+Dell	Gaming	2K	Intel Pentium Quad Core N4200	9	256GB PCIe SSD	NVIDIA GeForce GTX 1650	No OS
+Dell	Gaming	2K	Intel Core i5	9	256GB Flash Storage	NVIDIA GeForce GTX 1650	Windows 10
+Apple	Business Laptop	4K	Intel Core i5	9	2TB SATA SSD	AMD Radeon RX 5600M	Windows 11
+Chuwi	UltraBook	Full HD	Intel Core i5	9	1TB NVMe SSD	Intel Iris Xe Graphics	No OS
+Microsoft	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	9	2TB HDD	Intel Iris Xe Graphics	macOS
+Dell	WorkStation	2K	Intel Celeron Dual Core 3855U 	9	4TB HDD	Intel Iris Xe Graphics	macOS
+Dell	2 in 1 Convertible	2K	Intel Atom x5-Z8550	9	256GB Flash Storage	Intel Iris Xe Graphics	No OS
+hp	UltraBook	HD 1920x1080 	Intel Celeron Dual Core 3855U 	9	128 GB SSD	AMD Radeon RX 5600M	No OS
+MSI	UltraBook	4K	Intel Pentium Quad Core N4200	9	1TB HDD	Intel Iris Xe Graphics	Linux
+Apple	2 in 1 Convertible	4K	Intel Pentium Quad Core N4200	9	1TB SSHD	Intel Iris Xe Graphics	No OS
+Asus	NoteBook	HD 1920x1080 	Intel Xeon E3-1505M 	9	256GB Flash Storage	NVIDIA GeForce GTX 1650	Windows 10
+Dell	UltraBook	2K	AMD Ryzen 7	9	256GB Flash Storage	Intel Iris Xe Graphics	Windows 11
+Microsoft	UltraBook	HD 1920x1080 	AMD Ryzen 7	9	256GB PCIe SSD	Intel Iris Xe Graphics	Windows 11
+Apple	Business Laptop	2K	AMD Ryzen 7	9	512 GB eMMC	NVIDIA GeForce GTX 1650	Windows 10
+Acer	Business Laptop	4K	Intel Pentium Quad Core N4200	9	4TB HDD	Intel Iris Xe Graphics	Windows 11
+Dell	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	9	128 GB SSD	NVIDIA GeForce GTX 1650	Windows 11
+Chuwi	Business Laptop	HD 1920x1080 	AMD Ryzen 5	9	2TB HDD	AMD Radeon RX 5600M	Windows 11
+Microsoft	2 in 1 Convertible	2K	Intel Core i7	9	2TB HDD	Intel Iris Xe Graphics	macOS
+Dell	Business Laptop	HD 1920x1080 	Intel Atom x5-Z8550	9	256GB eMMC	NVIDIA GeForce GTX 1650	No OS
+lenevo	Business Laptop	4K	Intel Core i7	9	2TB SATA SSD	Intel Iris Xe Graphics	Linux
+Chuwi	UltraBook	4K	Intel Pentium Quad Core N4200	9	512 GB eMMC	NVIDIA GeForce GTX 1650	macOS
+Apple	WorkStation	Full HD	Intel Core i7	9	2TB SATA SSD	NVIDIA GeForce GTX 1650	macOS
+MSI	2 in 1 Convertible	4K	Intel Xeon E3-1505M 	9	256GB Flash Storage	Intel Iris Xe Graphics	Windows 10
+Acer	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Core i5	9	256GB SSD	NVIDIA GeForce GTX 1650	macOS
+Chuwi	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Core i9	9	1TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Apple	NoteBook	2K	Intel Core i7	9	512 GB NVMe SSD	AMD Radeon RX 5600M	macOS
+Microsoft	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	9	256GB eMMC	Intel Iris Xe Graphics	No OS
+Asus	Business Laptop	2K	AMD Ryzen 7	10	256GB PCIe SSD	Intel Iris Xe Graphics	Windows 10
+Acer	WorkStation	2K	Intel Core i9	10	256GB eMMC	AMD Radeon RX 5600M	Windows 11
+Dell	WorkStation	HD 1920x1080 	Intel Celeron Dual Core 3855U 	10	256GB PCIe SSD	NVIDIA GeForce GTX 1650	No OS
+hp	UltraBook	4K	Intel Celeron Dual Core 3855U 	10	1TB SSHD	Intel Iris Xe Graphics	macOS
+hp	NoteBook	Full HD	Intel Xeon E3-1505M 	10	2TB NVMe SSD	AMD Radeon RX 5600M	Windows 11
+MSI	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	10	2TB HDD	AMD Radeon RX 5600M	macOS
+Chuwi	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i9	10	6TB HDD	NVIDIA GeForce GTX 1650	Linux
+Dell	Gaming	4K	Intel Xeon E3-1505M 	10	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Apple	Business Laptop	2K	AMD Ryzen 5	10	256GB SSD	AMD Radeon RX 5600M	Linux
+MSI	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	10	256GB SSD	NVIDIA GeForce GTX 1650	Linux
+Apple	Gaming	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	10	1TB SSHD	NVIDIA GeForce GTX 1650	Windows 11
+Chuwi	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	10	256GB PCIe SSD	AMD Radeon RX 5600M	Linux
+MSI	Business Laptop	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	10	512 GB eMMC	AMD Radeon RX 5600M	No OS
+Microsoft	Business Laptop	2K	Intel Atom x5-Z8550	10	256GB PCIe SSD	Intel Iris Xe Graphics	macOS
+Dell	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	10	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 10
+MSI	Gaming	Full HD	Intel Atom x5-Z8550	10	512 GB eMMC	Intel Iris Xe Graphics	macOS
+Apple	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	10	4TB HDD	Intel Iris Xe Graphics	macOS
+Asus	Gaming	2K	Intel Pentium Quad Core N4200	10	1TB HDD	AMD Radeon RX 5600M	Linux
+lenevo	2 in 1 Convertible	HD 1920x1080 	AMD Ryzen 7	10	256GB Flash Storage	Intel Iris Xe Graphics	Windows 11
+MSI	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	10	256GB eMMC	Intel Iris Xe Graphics	Windows 10
+Dell	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	10	2TB HDD	NVIDIA GeForce GTX 1650	No OS
+Dell	2 in 1 Convertible	2K	Intel Atom x5-Z8550	10	2TB NVMe SSD	Intel Iris Xe Graphics	Windows 11
+Asus	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	10	2TB NVMe SSD	NVIDIA GeForce GTX 1650	No OS
+Asus	NoteBook	Full HD	Intel Core i9	10	512 GB SSD	AMD Radeon RX 5600M	Windows 11
+Chuwi	Gaming	HD 1920x1080 	Intel Celeron Dual Core 3855U 	10	6TB HDD	AMD Radeon RX 5600M	Linux
+lenevo	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	10	4TB HDD	AMD Radeon RX 5600M	Windows 10
+Acer	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	10	1TB SSHD	NVIDIA GeForce GTX 1650	Linux
+lenevo	Gaming	IPS Panel Retina Display 2560x1600	Intel Xeon E3-1505M 	10	1TB SSHD	Intel Iris Xe Graphics	Windows 10
+Acer	Gaming	HD 1920x1080 	Intel Celeron Dual Core 3855U 	10	128 GB PCIe SSD	AMD Radeon RX 5600M	No OS
+Dell	WorkStation	2K	AMD Ryzen 7	10	2TB SATA SSD	NVIDIA GeForce GTX 1650	macOS
+MSI	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	10	256GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+Asus	UltraBook	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	10	2TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	WorkStation	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	10	1TB Fusion Drive	NVIDIA GeForce GTX 1650	No OS
+Apple	Gaming	Full HD	Intel Core i7	10	512 GB SSD	NVIDIA GeForce GTX 1650	Linux
+Dell	WorkStation	2K	Intel Pentium Quad Core N4200	10	1TB Fusion Drive	NVIDIA GeForce GTX 1650	Linux
+Dell	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	10	128 GB SSD	Intel Iris Xe Graphics	Windows 10
+MSI	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	11	512 GB SSD	Intel Iris Xe Graphics	Windows 11
+Chuwi	Business Laptop	2K	AMD A9-Series 9420	11	256GB eMMC	Intel Iris Xe Graphics	Windows 11
+Dell	WorkStation	2K	Intel Core i7	11	512 GB eMMC	Intel Iris Xe Graphics	Linux
+Apple	NoteBook	Full HD	AMD Ryzen 5	11	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Dell	Gaming	HD 1920x1080 	AMD Ryzen 7	11	256GB SSD	NVIDIA GeForce GTX 1650	macOS
+Acer	WorkStation	4K	Intel Pentium Quad Core N4200	11	1TB SSHD	AMD Radeon RX 5600M	macOS
+Chuwi	WorkStation	4K	Intel Core i9	11	256GB SSD	AMD Radeon RX 5600M	Linux
+lenevo	Business Laptop	Full HD	AMD Ryzen 7	11	512 GB SSD	AMD Radeon RX 5600M	Windows 10
+Chuwi	Business Laptop	2K	Intel Pentium Quad Core N4200	11	2TB SATA SSD	AMD Radeon RX 5600M	Windows 10
+Microsoft	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	11	1TB HDD	Intel Iris Xe Graphics	Linux
+Apple	WorkStation	Full HD	Intel Xeon E3-1505M 	11	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	No OS
+hp	NoteBook	4K	Intel Xeon E3-1505M 	11	1TB HDD	AMD Radeon RX 5600M	Linux
+Microsoft	2 in 1 Convertible	Full HD	Intel Core i9	11	1TB NVMe SSD	NVIDIA GeForce GTX 1650	Linux
+Apple	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	11	512 GB NVMe SSD	AMD Radeon RX 5600M	Windows 11
+Asus	2 in 1 Convertible	2K	Intel Core i7	11	1TB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+MSI	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	11	1TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Dell	Gaming	4K	AMD A9-Series 9420	11	512 GB SSD	AMD Radeon RX 5600M	Linux
+Microsoft	Business Laptop	2K	Intel Celeron Dual Core 3855U 	11	2TB NVMe SSD	AMD Radeon RX 5600M	macOS
+Acer	Gaming	HD 1920x1080 	Intel Atom x5-Z8550	11	1TB NVMe SSD	Intel Iris Xe Graphics	macOS
+MSI	WorkStation	HD 1920x1080 	Intel Atom x5-Z8550	11	512 GB NVMe SSD	Intel Iris Xe Graphics	macOS
+Microsoft	Business Laptop	4K	Intel Atom x5-Z8550	11	2TB SATA SSD	NVIDIA GeForce GTX 1650	No OS
+Acer	WorkStation	IPS Panel Retina Display 2560x1600	Intel Xeon E3-1505M 	11	512 GB eMMC	Intel Iris Xe Graphics	No OS
+Dell	NoteBook	4K	Intel Celeron Dual Core 3855U 	11	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	Linux
+MSI	2 in 1 Convertible	HD 1920x1080 	AMD A9-Series 9420	11	256GB eMMC	NVIDIA GeForce GTX 1650	macOS
+Microsoft	Gaming	4K	Intel Xeon E3-1505M 	11	256GB SSD	AMD Radeon RX 5600M	No OS
+Microsoft	NoteBook	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	11	512 GB eMMC	AMD Radeon RX 5600M	Windows 11
+lenevo	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	11	1TB HDD	Intel Iris Xe Graphics	Windows 11
+Apple	2 in 1 Convertible	HD 1920x1080 	AMD Ryzen 5	11	128 GB PCIe SSD	Intel Iris Xe Graphics	Windows 11
+Apple	UltraBook	HD 1920x1080 	Intel Pentium Quad Core N4200	12	1TB HDD	Intel Iris Xe Graphics	Windows 11
+Dell	WorkStation	2K	Intel Core i7	12	4TB HDD	AMD Radeon RX 5600M	Linux
+Dell	Business Laptop	2K	Intel Atom x5-Z8550	12	1TB SSHD	NVIDIA GeForce GTX 1650	Windows 10
+Apple	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Xeon E3-1505M 	12	512 GB eMMC	AMD Radeon RX 5600M	macOS
+MSI	UltraBook	4K	Intel Core i7	12	1TB SSHD	NVIDIA GeForce GTX 1650	No OS
+Apple	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	12	128 GB PCIe SSD	Intel Iris Xe Graphics	Windows 10
+Microsoft	WorkStation	2K	AMD Ryzen 5	12	1TB HDD	Intel Iris Xe Graphics	Windows 10
+Microsoft	WorkStation	Full HD	AMD Ryzen 5	12	1TB HDD	AMD Radeon RX 5600M	No OS
+MSI	WorkStation	2K	Intel Pentium Quad Core N4200	12	512 GB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+MSI	NoteBook	4K	Intel Core i5	12	256GB eMMC	AMD Radeon RX 5600M	Linux
+Chuwi	NoteBook	4K	Intel Atom x5-Z8550	12	256GB Flash Storage	NVIDIA GeForce GTX 1650	macOS
+Dell	NoteBook	4K	Intel Core i9	12	512 GB SSD	NVIDIA GeForce GTX 1650	No OS
+MSI	NoteBook	HD 1920x1080 	Intel Core i9	12	2TB SATA SSD	AMD Radeon RX 5600M	No OS
+Asus	UltraBook	HD 1920x1080 	Intel Core i7	12	1TB HDD	AMD Radeon RX 5600M	Linux
+Dell	Business Laptop	HD 1920x1080 	Intel Core i9	12	256GB Flash Storage	NVIDIA GeForce GTX 1650	Windows 10
+MSI	Gaming	HD 1920x1080 	AMD A9-Series 9420	12	1TB Fusion Drive	Intel Iris Xe Graphics	Linux
+Dell	UltraBook	IPS Panel Retina Display 2560x1600	AMD Ryzen 5	12	256GB eMMC	Intel Iris Xe Graphics	Windows 10
+lenevo	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	12	256GB Flash Storage	AMD Radeon RX 5600M	macOS
+Acer	NoteBook	4K	Intel Core i9	12	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 11
+Acer	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	12	2TB HDD	Intel Iris Xe Graphics	Linux
+hp	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	12	6TB HDD	AMD Radeon RX 5600M	Windows 11
+Acer	Gaming	Full HD	Intel Xeon E3-1505M 	12	1TB HDD	AMD Radeon RX 5600M	Windows 10
+Apple	Gaming	Full HD	Intel Xeon E3-1505M 	12	2TB NVMe SSD	AMD Radeon RX 5600M	No OS
+Chuwi	2 in 1 Convertible	HD 1920x1080 	Intel Atom x5-Z8550	12	2TB HDD	AMD Radeon RX 5600M	Windows 11
+Microsoft	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	12	256GB SSD	NVIDIA GeForce GTX 1650	Linux
+Apple	UltraBook	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	12	4TB HDD	Intel Iris Xe Graphics	Windows 11
+lenevo	Gaming	IPS Panel Retina Display 2560x1600	Intel Core i5	12	4TB HDD	NVIDIA GeForce GTX 1650	No OS
+Microsoft	NoteBook	Full HD	Intel Core i9	12	6TB HDD	NVIDIA GeForce GTX 1650	No OS
+Chuwi	WorkStation	HD 1920x1080 	AMD A9-Series 9420	12	256GB SSD	NVIDIA GeForce GTX 1650	Linux
+Microsoft	Business Laptop	HD 1920x1080 	AMD A9-Series 9420	12	512 GB SSD	Intel Iris Xe Graphics	Windows 11
+hp	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	12	256GB Flash Storage	NVIDIA GeForce GTX 1650	macOS
+hp	UltraBook	4K	Intel Core i9	12	1TB Fusion Drive	Intel Iris Xe Graphics	Windows 10
+MSI	UltraBook	2K	Intel Xeon E3-1505M 	12	4TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+MSI	NoteBook	Full HD	Intel Core i9	12	256GB eMMC	AMD Radeon RX 5600M	macOS
+Dell	WorkStation	Full HD	Intel Atom x5-Z8550	12	6TB HDD	AMD Radeon RX 5600M	Linux
+Acer	Gaming	HD 1920x1080 	Intel Atom x5-Z8550	12	256GB eMMC	AMD Radeon RX 5600M	macOS
+Acer	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	12	1TB NVMe SSD	AMD Radeon RX 5600M	macOS
+Asus	Gaming	2K	AMD Ryzen 7	12	4TB HDD	AMD Radeon RX 5600M	macOS
+Chuwi	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	13	1TB HDD	AMD Radeon RX 5600M	Windows 11
+Dell	Gaming	HD 1920x1080 	Intel Core i7	13	1TB SSHD	NVIDIA GeForce GTX 1650	macOS
+hp	Business Laptop	2K	Intel Core i9	13	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 11
+Microsoft	WorkStation	Full HD	Intel Atom x5-Z8550	13	1TB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+Microsoft	WorkStation	IPS Panel Retina Display 2560x1600	Intel Core i5	13	512 GB SSD	Intel Iris Xe Graphics	No OS
+Chuwi	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	13	1TB NVMe SSD	Intel Iris Xe Graphics	macOS
+Microsoft	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	13	2TB HDD	AMD Radeon RX 5600M	macOS
+Acer	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i5	13	1TB HDD	Intel Iris Xe Graphics	Windows 10
+Apple	UltraBook	2K	Intel Pentium Quad Core N4200	13	512 GB eMMC	NVIDIA GeForce GTX 1650	Linux
+Dell	2 in 1 Convertible	4K	AMD Ryzen 5	13	512 GB eMMC	Intel Iris Xe Graphics	No OS
+Chuwi	Business Laptop	4K	AMD A9-Series 9420	13	1TB Fusion Drive	AMD Radeon RX 5600M	No OS
+Dell	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	13	1TB NVMe SSD	AMD Radeon RX 5600M	Linux
+Apple	Business Laptop	4K	Intel Celeron Dual Core 3855U 	13	2TB NVMe SSD	AMD Radeon RX 5600M	Linux
+Asus	2 in 1 Convertible	HD 1920x1080 	Intel Atom x5-Z8550	13	128 GB SSD	NVIDIA GeForce GTX 1650	No OS
+Microsoft	2 in 1 Convertible	4K	Intel Core i9	13	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+lenevo	UltraBook	Full HD	Intel Celeron Dual Core 3855U 	13	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+Apple	WorkStation	4K	Intel Celeron Dual Core 3855U 	13	4TB HDD	NVIDIA GeForce GTX 1650	No OS
+Acer	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	13	1TB SSHD	NVIDIA GeForce GTX 1650	Windows 11
+Microsoft	Business Laptop	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	13	6TB HDD	Intel Iris Xe Graphics	macOS
+Microsoft	Gaming	4K	Intel Celeron Dual Core 3855U 	13	2TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+MSI	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	13	4TB HDD	NVIDIA GeForce GTX 1650	No OS
+MSI	NoteBook	HD 1920x1080 	Intel Pentium Quad Core N4200	13	512 GB NVMe SSD	Intel Iris Xe Graphics	Linux
+Chuwi	NoteBook	4K	Intel Xeon E3-1505M 	13	4TB HDD	NVIDIA GeForce GTX 1650	No OS
+Asus	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	13	1TB HDD	NVIDIA GeForce GTX 1650	Linux
+MSI	UltraBook	Full HD	Intel Celeron Dual Core 3855U 	13	512 GB eMMC	AMD Radeon RX 5600M	No OS
+Microsoft	Business Laptop	Full HD	Intel Xeon E3-1505M 	13	1TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	NoteBook	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	13	512 GB NVMe SSD	AMD Radeon RX 5600M	No OS
+Asus	WorkStation	4K	AMD Ryzen 7	13	2TB HDD	NVIDIA GeForce GTX 1650	macOS
+Chuwi	WorkStation	HD 1920x1080 	Intel Celeron Dual Core 3855U 	13	2TB HDD	NVIDIA GeForce GTX 1650	macOS
+Chuwi	NoteBook	2K	Intel Pentium Quad Core N4200	13	256GB SSD	NVIDIA GeForce GTX 1650	Windows 10
+lenevo	WorkStation	4K	Intel Core i7	13	256GB eMMC	AMD Radeon RX 5600M	No OS
+Dell	Business Laptop	IPS Panel Retina Display 2560x1600	AMD Ryzen 5	13	1TB HDD	Intel Iris Xe Graphics	Windows 10
+Apple	NoteBook	4K	Intel Pentium Quad Core N4200	13	4TB HDD	AMD Radeon RX 5600M	Windows 10
+MSI	Business Laptop	HD 1920x1080 	AMD Ryzen 5	13	1TB HDD	AMD Radeon RX 5600M	Windows 10
+lenevo	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	13	4TB HDD	Intel Iris Xe Graphics	Windows 11
+Dell	Business Laptop	4K	Intel Core i7	13	2TB SATA SSD	Intel Iris Xe Graphics	Windows 11
+MSI	Gaming	4K	Intel Core i5	13	1TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+MSI	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	13	2TB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+Apple	Gaming	Full HD	AMD Ryzen 5	13	512 GB eMMC	NVIDIA GeForce GTX 1650	Windows 11
+Acer	WorkStation	2K	AMD Ryzen 5	13	256GB PCIe SSD	Intel Iris Xe Graphics	macOS
+hp	Business Laptop	HD 1920x1080 	Intel Atom x5-Z8550	13	1TB Fusion Drive	AMD Radeon RX 5600M	Windows 10
+hp	Gaming	2K	Intel Xeon E3-1505M 	13	1TB SSHD	Intel Iris Xe Graphics	Windows 10
+Asus	Business Laptop	4K	Intel Xeon E3-1505M 	14	512 GB eMMC	AMD Radeon RX 5600M	macOS
+Chuwi	NoteBook	Full HD	Intel Xeon E3-1505M 	14	4TB HDD	Intel Iris Xe Graphics	Linux
+Acer	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	14	4TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Apple	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	14	1TB SSHD	AMD Radeon RX 5600M	No OS
+Chuwi	NoteBook	4K	Intel Core i5	14	4TB HDD	Intel Iris Xe Graphics	Windows 11
+Dell	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	14	512 GB eMMC	NVIDIA GeForce GTX 1650	Windows 10
+Asus	WorkStation	Full HD	AMD A9-Series 9420	14	1TB HDD	Intel Iris Xe Graphics	Windows 10
+hp	Gaming	Full HD	Intel Xeon E3-1505M 	14	128 GB SSD	AMD Radeon RX 5600M	Linux
+Acer	UltraBook	HD 1920x1080 	Intel Xeon E3-1505M 	14	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	No OS
+hp	NoteBook	HD 1920x1080 	Intel Core i7	14	1TB SSHD	Intel Iris Xe Graphics	No OS
+lenevo	2 in 1 Convertible	HD 1920x1080 	AMD A9-Series 9420	14	256GB Flash Storage	AMD Radeon RX 5600M	No OS
+lenevo	WorkStation	Full HD	AMD Ryzen 5	14	256GB eMMC	Intel Iris Xe Graphics	Linux
+Microsoft	Gaming	Full HD	Intel Core i9	14	1TB SSHD	Intel Iris Xe Graphics	macOS
+Acer	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	14	256GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+Chuwi	Business Laptop	2K	Intel Core i7	14	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	No OS
+hp	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	14	6TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+hp	WorkStation	HD 1920x1080 	Intel Core i7	14	1TB HDD	Intel Iris Xe Graphics	No OS
+Asus	2 in 1 Convertible	HD 1920x1080 	Intel Core i9	14	2TB HDD	AMD Radeon RX 5600M	No OS
+lenevo	WorkStation	IPS Panel Retina Display 2560x1600	Intel Xeon E3-1505M 	14	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+Asus	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Core i9	14	512 GB NVMe SSD	AMD Radeon RX 5600M	Windows 10
+Microsoft	2 in 1 Convertible	2K	Intel Core i7	14	128 GB SSD	NVIDIA GeForce GTX 1650	Windows 11
+Microsoft	Gaming	HD 1920x1080 	AMD Ryzen 7	14	1TB HDD	AMD Radeon RX 5600M	No OS
+lenevo	Gaming	HD 1920x1080 	Intel Atom x5-Z8550	14	512 GB eMMC	Intel Iris Xe Graphics	Linux
+hp	UltraBook	HD 1920x1080 	Intel Celeron Dual Core 3855U 	14	2TB HDD	AMD Radeon RX 5600M	Windows 11
+MSI	NoteBook	Full HD	Intel Core i5	14	256GB PCIe SSD	AMD Radeon RX 5600M	Windows 11
+Dell	UltraBook	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	14	512 GB NVMe SSD	AMD Radeon RX 5600M	Linux
+hp	Gaming	Full HD	Intel Atom x5-Z8550	14	2TB HDD	Intel Iris Xe Graphics	Windows 10
+lenevo	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	14	1TB Fusion Drive	NVIDIA GeForce GTX 1650	Windows 11
+Apple	Gaming	4K	Intel Xeon E3-1505M 	14	256GB eMMC	AMD Radeon RX 5600M	No OS
+Chuwi	Business Laptop	4K	Intel Core i5	14	256GB PCIe SSD	Intel Iris Xe Graphics	No OS
+Apple	2 in 1 Convertible	2K	Intel Core i9	14	1TB Fusion Drive	NVIDIA GeForce GTX 1650	Windows 10
+Microsoft	NoteBook	2K	AMD A9-Series 9420	14	128 GB SSD	NVIDIA GeForce GTX 1650	Windows 11
+Apple	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	14	1TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+Microsoft	NoteBook	2K	Intel Core i9	14	256GB Flash Storage	NVIDIA GeForce GTX 1650	Windows 10
+Chuwi	UltraBook	4K	AMD Ryzen 5	14	128 GB SSD	NVIDIA GeForce GTX 1650	Windows 11
+Apple	Gaming	HD 1920x1080 	Intel Xeon E3-1505M 	14	6TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+lenevo	WorkStation	Full HD	Intel Pentium Quad Core N4200	14	1TB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+Apple	UltraBook	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	14	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 11
+hp	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	14	1TB NVMe SSD	Intel Iris Xe Graphics	No OS
+Microsoft	Business Laptop	Full HD	AMD Ryzen 7	14	1TB HDD	Intel Iris Xe Graphics	Linux
+Asus	UltraBook	2K	Intel Core i9	14	1TB SSHD	Intel Iris Xe Graphics	No OS
+Chuwi	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Xeon E3-1505M 	14	1TB NVMe SSD	AMD Radeon RX 5600M	Windows 10
+Microsoft	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	14	128 GB PCIe SSD	Intel Iris Xe Graphics	No OS
+lenevo	UltraBook	4K	Intel Pentium Quad Core N4200	14	128 GB SSD	NVIDIA GeForce GTX 1650	Linux
+Chuwi	Business Laptop	Full HD	Intel Pentium Quad Core N4200	14	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+Apple	Business Laptop	Full HD	AMD A9-Series 9420	14	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Chuwi	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	15	512 GB eMMC	NVIDIA GeForce GTX 1650	No OS
+Chuwi	2 in 1 Convertible	HD 1920x1080 	Intel Celeron Dual Core 3855U 	15	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+MSI	2 in 1 Convertible	HD 1920x1080 	Intel Celeron Dual Core 3855U 	15	512 GB SSD	NVIDIA GeForce GTX 1650	Linux
+Chuwi	UltraBook	2K	AMD A9-Series 9420	15	1TB Fusion Drive	Intel Iris Xe Graphics	Windows 11
+lenevo	WorkStation	2K	Intel Core i7	15	1TB SSHD	NVIDIA GeForce GTX 1650	No OS
+Apple	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Xeon E3-1505M 	15	4TB HDD	NVIDIA GeForce GTX 1650	No OS
+lenevo	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	15	128 GB SSD	AMD Radeon RX 5600M	Windows 10
+hp	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	15	128 GB SSD	AMD Radeon RX 5600M	Linux
+hp	Business Laptop	4K	Intel Core i7	15	2TB SATA SSD	Intel Iris Xe Graphics	macOS
+Dell	Gaming	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	15	1TB HDD	Intel Iris Xe Graphics	macOS
+Asus	2 in 1 Convertible	Full HD	AMD Ryzen 7	15	2TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+Microsoft	Gaming	4K	Intel Core i5	15	512 GB eMMC	NVIDIA GeForce GTX 1650	macOS
+Chuwi	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	15	128 GB PCIe SSD	AMD Radeon RX 5600M	No OS
+lenevo	UltraBook	4K	Intel Core i9	15	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	No OS
+Apple	UltraBook	4K	AMD A9-Series 9420	15	2TB NVMe SSD	AMD Radeon RX 5600M	Windows 11
+Dell	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	15	1TB Fusion Drive	AMD Radeon RX 5600M	Windows 11
+Microsoft	Gaming	2K	Intel Pentium Quad Core N4200	15	2TB HDD	Intel Iris Xe Graphics	No OS
+Chuwi	NoteBook	2K	Intel Core i5	15	1TB SSHD	Intel Iris Xe Graphics	No OS
+Microsoft	Gaming	4K	Intel Core i5	15	512 GB SSD	Intel Iris Xe Graphics	Windows 11
+Acer	Business Laptop	4K	AMD A9-Series 9420	15	128 GB PCIe SSD	Intel Iris Xe Graphics	Linux
+Chuwi	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	15	1TB HDD	Intel Iris Xe Graphics	Windows 10
+lenevo	NoteBook	2K	Intel Atom x5-Z8550	15	1TB HDD	AMD Radeon RX 5600M	macOS
+MSI	Business Laptop	4K	Intel Atom x5-Z8550	15	1TB Fusion Drive	NVIDIA GeForce GTX 1650	macOS
+Apple	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	15	1TB HDD	NVIDIA GeForce GTX 1650	macOS
+Chuwi	UltraBook	4K	Intel Celeron Dual Core 3855U 	15	512 GB NVMe SSD	Intel Iris Xe Graphics	Windows 11
+lenevo	UltraBook	Full HD	Intel Xeon E3-1505M 	15	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	macOS
+Apple	UltraBook	4K	AMD Ryzen 5	15	1TB HDD	NVIDIA GeForce GTX 1650	macOS
+Microsoft	2 in 1 Convertible	2K	Intel Pentium Quad Core N4200	15	2TB SATA SSD	Intel Iris Xe Graphics	No OS
+lenevo	NoteBook	HD 1920x1080 	AMD A9-Series 9420	15	256GB eMMC	Intel Iris Xe Graphics	Windows 11
+Dell	WorkStation	Full HD	Intel Xeon E3-1505M 	15	1TB NVMe SSD	AMD Radeon RX 5600M	Linux
+Apple	2 in 1 Convertible	2K	AMD Ryzen 7	15	1TB Fusion Drive	AMD Radeon RX 5600M	Windows 11
+Chuwi	WorkStation	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	15	128 GB PCIe SSD	AMD Radeon RX 5600M	macOS
+Microsoft	UltraBook	HD 1920x1080 	Intel Atom x5-Z8550	15	128 GB PCIe SSD	Intel Iris Xe Graphics	Windows 10
+MSI	WorkStation	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	15	512 GB SSD	Intel Iris Xe Graphics	Linux
+MSI	Business Laptop	2K	AMD Ryzen 5	15	6TB HDD	Intel Iris Xe Graphics	Linux
+lenevo	WorkStation	2K	Intel Atom x5-Z8550	15	1TB HDD	Intel Iris Xe Graphics	No OS
+Asus	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	15	256GB SSD	AMD Radeon RX 5600M	No OS
+hp	Gaming	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	15	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	Linux
+Microsoft	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	15	512 GB eMMC	Intel Iris Xe Graphics	Windows 10
+Acer	UltraBook	HD 1920x1080 	Intel Core i9	15	128 GB SSD	AMD Radeon RX 5600M	Windows 10
+Asus	Business Laptop	4K	Intel Pentium Quad Core N4200	15	256GB SSD	AMD Radeon RX 5600M	Windows 11
+Microsoft	WorkStation	2K	Intel Celeron Dual Core 3855U 	15	256GB Flash Storage	Intel Iris Xe Graphics	No OS
+lenevo	UltraBook	4K	Intel Xeon E3-1505M 	15	1TB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+hp	Business Laptop	HD 1920x1080 	Intel Xeon E3-1505M 	15	4TB HDD	AMD Radeon RX 5600M	macOS
+hp	Gaming	HD 1920x1080 	AMD A9-Series 9420	16	128 GB SSD	AMD Radeon RX 5600M	Windows 10
+Microsoft	WorkStation	4K	Intel Celeron Dual Core 3855U 	16	2TB SATA SSD	NVIDIA GeForce GTX 1650	macOS
+MSI	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Core i7	16	512 GB SSD	Intel Iris Xe Graphics	Linux
+Chuwi	2 in 1 Convertible	Full HD	Intel Core i5	16	128 GB PCIe SSD	Intel Iris Xe Graphics	No OS
+Asus	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	16	256GB PCIe SSD	NVIDIA GeForce GTX 1650	macOS
+Microsoft	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Core i9	16	128 GB SSD	NVIDIA GeForce GTX 1650	Linux
+Chuwi	WorkStation	IPS Panel Retina Display 2560x1600	Intel Core i9	16	2TB NVMe SSD	AMD Radeon RX 5600M	Linux
+Dell	NoteBook	4K	AMD A9-Series 9420	16	1TB Fusion Drive	Intel Iris Xe Graphics	Windows 10
+Chuwi	WorkStation	IPS Panel Retina Display 2560x1600	Intel Core i7	16	2TB SATA SSD	NVIDIA GeForce GTX 1650	Linux
+Acer	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	16	512 GB NVMe SSD	AMD Radeon RX 5600M	No OS
+Microsoft	NoteBook	HD 1920x1080 	AMD Ryzen 5	16	1TB NVMe SSD	NVIDIA GeForce GTX 1650	Linux
+lenevo	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	16	1TB SSHD	AMD Radeon RX 5600M	macOS
+hp	Gaming	4K	Intel Pentium Quad Core N4200	16	512 GB eMMC	AMD Radeon RX 5600M	Linux
+Dell	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	16	1TB SSHD	Intel Iris Xe Graphics	No OS
+lenevo	Business Laptop	4K	AMD Ryzen 7	16	512 GB SSD	Intel Iris Xe Graphics	No OS
+Acer	Gaming	2K	Intel Pentium Quad Core N4200	16	256GB PCIe SSD	AMD Radeon RX 5600M	macOS
+Dell	Gaming	Full HD	Intel Atom x5-Z8550	16	512 GB SSD	NVIDIA GeForce GTX 1650	Windows 11
+Apple	UltraBook	HD 1920x1080 	AMD Ryzen 5	16	256GB SSD	AMD Radeon RX 5600M	macOS
+Asus	2 in 1 Convertible	Full HD	Intel Atom x5-Z8550	16	256GB Flash Storage	NVIDIA GeForce GTX 1650	Windows 10
+Asus	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	16	1TB SSHD	Intel Iris Xe Graphics	Windows 10
+Chuwi	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	16	4TB HDD	NVIDIA GeForce GTX 1650	Linux
+Apple	Business Laptop	Full HD	Intel Celeron Dual Core 3855U 	16	1TB HDD	Intel Iris Xe Graphics	No OS
+Acer	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	16	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Linux
+Asus	UltraBook	4K	Intel Core i7	16	512 GB SSD	NVIDIA GeForce GTX 1650	macOS
+Apple	Gaming	4K	Intel Atom x5-Z8550	16	2TB HDD	NVIDIA GeForce GTX 1650	No OS
+Dell	NoteBook	4K	Intel Celeron Dual Core 3855U 	16	512 GB SSD	Intel Iris Xe Graphics	macOS
+Asus	Business Laptop	2K	AMD Ryzen 5	16	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	macOS
+lenevo	WorkStation	HD 1920x1080 	Intel Celeron Dual Core 3855U 	16	256GB eMMC	AMD Radeon RX 5600M	No OS
+Chuwi	WorkStation	2K	AMD Ryzen 5	16	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	No OS
+Microsoft	Gaming	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	16	4TB HDD	AMD Radeon RX 5600M	Windows 10
+Chuwi	Gaming	2K	Intel Core i9	16	4TB HDD	AMD Radeon RX 5600M	macOS
+Microsoft	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Core i9	16	2TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+MSI	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	16	4TB HDD	Intel Iris Xe Graphics	Linux
+Apple	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	16	256GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+hp	2 in 1 Convertible	2K	Intel Core i9	16	256GB SSD	AMD Radeon RX 5600M	No OS
+Acer	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	16	1TB Fusion Drive	AMD Radeon RX 5600M	Windows 10
+Acer	Business Laptop	2K	AMD Ryzen 5	16	1TB SSHD	NVIDIA GeForce GTX 1650	macOS
+hp	NoteBook	IPS Panel Retina Display 2560x1600	Intel Core i7	16	128 GB PCIe SSD	AMD Radeon RX 5600M	macOS
+Acer	NoteBook	2K	Intel Atom x5-Z8550	16	1TB SSHD	AMD Radeon RX 5600M	Windows 11
+Asus	NoteBook	IPS Panel Retina Display 2560x1600	Intel Core i7	17	1TB HDD	Intel Iris Xe Graphics	Linux
+hp	NoteBook	2K	Intel Atom x5-Z8550	17	256GB eMMC	Intel Iris Xe Graphics	macOS
+hp	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Core i7	17	128 GB PCIe SSD	AMD Radeon RX 5600M	macOS
+Chuwi	Business Laptop	Full HD	Intel Xeon E3-1505M 	17	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+lenevo	2 in 1 Convertible	Full HD	AMD Ryzen 7	17	1TB SSHD	NVIDIA GeForce GTX 1650	Windows 11
+Chuwi	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	17	2TB NVMe SSD	Intel Iris Xe Graphics	macOS
+Asus	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	17	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+hp	Business Laptop	4K	Intel Core i7	17	512 GB eMMC	NVIDIA GeForce GTX 1650	Windows 10
+Microsoft	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	17	512 GB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+Acer	NoteBook	4K	AMD Ryzen 5	17	4TB HDD	Intel Iris Xe Graphics	Windows 10
+Chuwi	2 in 1 Convertible	HD 1920x1080 	AMD A9-Series 9420	17	2TB HDD	Intel Iris Xe Graphics	Linux
+lenevo	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	17	128 GB SSD	AMD Radeon RX 5600M	macOS
+MSI	Business Laptop	2K	Intel Core i7	17	1TB HDD	AMD Radeon RX 5600M	Windows 11
+Apple	Gaming	Full HD	Intel Atom x5-Z8550	17	2TB SATA SSD	AMD Radeon RX 5600M	Windows 11
+Acer	Business Laptop	4K	AMD Ryzen 5	17	256GB PCIe SSD	AMD Radeon RX 5600M	Linux
+lenevo	UltraBook	Full HD	Intel Core i5	17	512 GB SSD	Intel Iris Xe Graphics	Windows 11
+Acer	UltraBook	HD 1920x1080 	Intel Celeron Dual Core 3855U 	17	1TB NVMe SSD	NVIDIA GeForce GTX 1650	Linux
+Acer	UltraBook	Full HD	Intel Xeon E3-1505M 	17	512 GB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+MSI	NoteBook	2K	Intel Core i7	17	256GB SSD	Intel Iris Xe Graphics	Windows 10
+Acer	WorkStation	2K	Intel Xeon E3-1505M 	17	1TB NVMe SSD	AMD Radeon RX 5600M	Windows 10
+MSI	2 in 1 Convertible	HD 1920x1080 	Intel Core i7	17	128 GB PCIe SSD	Intel Iris Xe Graphics	Windows 10
+Microsoft	2 in 1 Convertible	HD 1920x1080 	Intel Core i7	17	2TB HDD	Intel Iris Xe Graphics	macOS
+hp	Gaming	Full HD	AMD A9-Series 9420	17	4TB HDD	Intel Iris Xe Graphics	macOS
+MSI	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	17	512 GB eMMC	NVIDIA GeForce GTX 1650	Windows 11
+Apple	2 in 1 Convertible	HD 1920x1080 	Intel Xeon E3-1505M 	17	6TB HDD	AMD Radeon RX 5600M	No OS
+Microsoft	2 in 1 Convertible	2K	Intel Celeron Dual Core 3855U 	17	512 GB SSD	AMD Radeon RX 5600M	macOS
+Asus	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Core i5	17	1TB NVMe SSD	Intel Iris Xe Graphics	Linux
+lenevo	2 in 1 Convertible	2K	Intel Pentium Quad Core N4200	17	256GB PCIe SSD	AMD Radeon RX 5600M	Windows 11
+Acer	WorkStation	IPS Panel Retina Display 2560x1600	Intel Core i5	17	128 GB PCIe SSD	AMD Radeon RX 5600M	No OS
+Apple	UltraBook	Full HD	AMD Ryzen 5	17	512 GB SSD	NVIDIA GeForce GTX 1650	No OS
+lenevo	Gaming	HD 1920x1080 	Intel Pentium Quad Core N4200	17	1TB Fusion Drive	Intel Iris Xe Graphics	Windows 10
+Asus	Business Laptop	HD 1920x1080 	AMD A9-Series 9420	17	128 GB PCIe SSD	Intel Iris Xe Graphics	Windows 11
+Asus	WorkStation	Full HD	Intel Atom x5-Z8550	17	1TB HDD	Intel Iris Xe Graphics	Windows 10
+Asus	Business Laptop	Full HD	AMD A9-Series 9420	17	128 GB SSD	NVIDIA GeForce GTX 1650	Windows 10
+Asus	WorkStation	4K	Intel Core i9	17	1TB Fusion Drive	NVIDIA GeForce GTX 1650	Windows 10
+Dell	NoteBook	IPS Panel Retina Display 2560x1600	Intel Core i7	17	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+MSI	NoteBook	HD 1920x1080 	Intel Celeron Dual Core 3855U 	17	1TB SSHD	NVIDIA GeForce GTX 1650	No OS
+Asus	2 in 1 Convertible	4K	Intel Celeron Dual Core 3855U 	18	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+Acer	Gaming	IPS Panel Retina Display 2560x1600	Intel Core i9	18	1TB NVMe SSD	Intel Iris Xe Graphics	Linux
+Chuwi	NoteBook	Full HD	Intel Atom x5-Z8550	18	128 GB SSD	Intel Iris Xe Graphics	macOS
+Asus	WorkStation	2K	AMD Ryzen 7	18	1TB NVMe SSD	Intel Iris Xe Graphics	No OS
+lenevo	Business Laptop	4K	Intel Core i5	18	1TB Fusion Drive	AMD Radeon RX 5600M	Windows 10
+Asus	UltraBook	HD 1920x1080 	Intel Atom x5-Z8550	18	256GB PCIe SSD	Intel Iris Xe Graphics	macOS
+lenevo	2 in 1 Convertible	HD 1920x1080 	Intel Xeon E3-1505M 	18	256GB eMMC	NVIDIA GeForce GTX 1650	No OS
+Acer	2 in 1 Convertible	HD 1920x1080 	AMD Ryzen 5	18	4TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+Microsoft	WorkStation	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	18	2TB SATA SSD	Intel Iris Xe Graphics	Windows 11
+Dell	Business Laptop	IPS Panel Retina Display 2560x1600	AMD Ryzen 5	18	512 GB NVMe SSD	AMD Radeon RX 5600M	Linux
+Acer	WorkStation	4K	AMD A9-Series 9420	18	512 GB eMMC	Intel Iris Xe Graphics	Windows 10
+Apple	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	18	1TB HDD	AMD Radeon RX 5600M	Windows 10
+hp	2 in 1 Convertible	Full HD	Intel Core i9	18	1TB NVMe SSD	AMD Radeon RX 5600M	Linux
+Chuwi	UltraBook	HD 1920x1080 	Intel Xeon E3-1505M 	18	256GB eMMC	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	18	256GB PCIe SSD	Intel Iris Xe Graphics	Windows 11
+Microsoft	Gaming	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	18	2TB NVMe SSD	Intel Iris Xe Graphics	Linux
+Microsoft	2 in 1 Convertible	HD 1920x1080 	Intel Atom x5-Z8550	18	256GB Flash Storage	NVIDIA GeForce GTX 1650	No OS
+Apple	NoteBook	4K	Intel Core i7	18	256GB SSD	NVIDIA GeForce GTX 1650	macOS
+MSI	WorkStation	4K	Intel Celeron Dual Core 3855U 	18	512 GB NVMe SSD	AMD Radeon RX 5600M	Windows 10
+MSI	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	18	1TB HDD	NVIDIA GeForce GTX 1650	macOS
+hp	UltraBook	4K	Intel Celeron Dual Core 3855U 	18	2TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Asus	2 in 1 Convertible	4K	Intel Pentium Quad Core N4200	18	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+MSI	NoteBook	Full HD	Intel Core i7	18	4TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+Asus	NoteBook	Full HD	Intel Core i7	18	2TB SATA SSD	AMD Radeon RX 5600M	Linux
+MSI	NoteBook	4K	AMD Ryzen 7	18	6TB HDD	AMD Radeon RX 5600M	Linux
+Apple	WorkStation	2K	AMD Ryzen 5	18	1TB Fusion Drive	AMD Radeon RX 5600M	Linux
+Asus	WorkStation	4K	Intel Core i7	18	256GB Flash Storage	AMD Radeon RX 5600M	macOS
+Apple	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	18	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Asus	Gaming	HD 1920x1080 	Intel Atom x5-Z8550	18	1TB HDD	NVIDIA GeForce GTX 1650	Linux
+Apple	2 in 1 Convertible	2K	Intel Atom x5-Z8550	18	2TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+Microsoft	2 in 1 Convertible	HD 1920x1080 	Intel Xeon E3-1505M 	18	2TB HDD	Intel Iris Xe Graphics	Windows 10
+MSI	NoteBook	HD 1920x1080 	Intel Celeron Dual Core 3855U 	18	128 GB PCIe SSD	Intel Iris Xe Graphics	Windows 10
+hp	Gaming	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	18	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Linux
+Microsoft	Gaming	2K	AMD Ryzen 7	18	512 GB SSD	NVIDIA GeForce GTX 1650	Windows 11
+hp	Gaming	2K	AMD Ryzen 7	18	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Acer	Gaming	Full HD	Intel Core i9	18	128 GB PCIe SSD	Intel Iris Xe Graphics	macOS
+Dell	WorkStation	HD 1920x1080 	Intel Xeon E3-1505M 	18	2TB HDD	AMD Radeon RX 5600M	Windows 11
+Microsoft	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	18	1TB NVMe SSD	AMD Radeon RX 5600M	No OS
+Chuwi	2 in 1 Convertible	4K	Intel Xeon E3-1505M 	18	6TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Microsoft	Gaming	2K	Intel Core i5	18	1TB Fusion Drive	AMD Radeon RX 5600M	Windows 10
+Asus	Gaming	4K	Intel Celeron Dual Core 3855U 	18	2TB NVMe SSD	Intel Iris Xe Graphics	macOS
+lenevo	2 in 1 Convertible	2K	Intel Pentium Quad Core N4200	18	4TB HDD	Intel Iris Xe Graphics	Linux
+MSI	Business Laptop	4K	AMD Ryzen 7	18	128 GB PCIe SSD	Intel Iris Xe Graphics	No OS
+MSI	WorkStation	HD 1920x1080 	AMD Ryzen 7	19	1TB SSHD	AMD Radeon RX 5600M	Linux
+Asus	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	19	1TB NVMe SSD	AMD Radeon RX 5600M	No OS
+Chuwi	Gaming	4K	Intel Xeon E3-1505M 	19	256GB eMMC	Intel Iris Xe Graphics	Linux
+Apple	Business Laptop	4K	AMD Ryzen 5	19	512 GB eMMC	NVIDIA GeForce GTX 1650	Linux
+Chuwi	Gaming	IPS Panel Retina Display 2560x1600	Intel Xeon E3-1505M 	19	1TB SSHD	AMD Radeon RX 5600M	Linux
+lenevo	WorkStation	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	19	6TB HDD	AMD Radeon RX 5600M	Windows 10
+Apple	Gaming	4K	AMD A9-Series 9420	19	256GB SSD	Intel Iris Xe Graphics	macOS
+lenevo	NoteBook	Full HD	Intel Xeon E3-1505M 	19	256GB eMMC	AMD Radeon RX 5600M	Linux
+Acer	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	19	512 GB eMMC	AMD Radeon RX 5600M	Windows 11
+Apple	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	19	1TB HDD	Intel Iris Xe Graphics	No OS
+Chuwi	Business Laptop	Full HD	AMD A9-Series 9420	19	256GB Flash Storage	NVIDIA GeForce GTX 1650	Linux
+hp	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	19	2TB NVMe SSD	AMD Radeon RX 5600M	No OS
+Chuwi	WorkStation	HD 1920x1080 	Intel Core i5	19	512 GB SSD	AMD Radeon RX 5600M	Linux
+hp	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	19	1TB HDD	Intel Iris Xe Graphics	Linux
+Asus	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	19	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Chuwi	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	19	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Acer	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Core i5	19	1TB Fusion Drive	NVIDIA GeForce GTX 1650	macOS
+lenevo	WorkStation	Full HD	Intel Pentium Quad Core N4200	19	512 GB SSD	Intel Iris Xe Graphics	macOS
+Apple	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	19	1TB SSHD	NVIDIA GeForce GTX 1650	macOS
+Apple	NoteBook	HD 1920x1080 	AMD A9-Series 9420	19	2TB SATA SSD	Intel Iris Xe Graphics	Windows 11
+Dell	NoteBook	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	19	256GB Flash Storage	Intel Iris Xe Graphics	Windows 11
+Asus	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	20	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 11
+Dell	NoteBook	4K	Intel Xeon E3-1505M 	20	1TB Fusion Drive	NVIDIA GeForce GTX 1650	Windows 10
+lenevo	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	AMD Ryzen 5	20	2TB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+lenevo	NoteBook	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	20	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 11
+Dell	UltraBook	HD 1920x1080 	Intel Celeron Dual Core 3855U 	20	1TB HDD	AMD Radeon RX 5600M	Windows 10
+Asus	UltraBook	2K	Intel Pentium Quad Core N4200	20	2TB SATA SSD	NVIDIA GeForce GTX 1650	macOS
+hp	UltraBook	2K	Intel Atom x5-Z8550	20	2TB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+Chuwi	2 in 1 Convertible	HD 1920x1080 	Intel Core i5	20	1TB NVMe SSD	AMD Radeon RX 5600M	macOS
+Acer	Business Laptop	2K	Intel Core i5	20	1TB SSHD	NVIDIA GeForce GTX 1650	Windows 11
+Dell	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	20	1TB HDD	Intel Iris Xe Graphics	Linux
+Dell	2 in 1 Convertible	HD 1920x1080 	AMD Ryzen 5	20	256GB Flash Storage	AMD Radeon RX 5600M	No OS
+Microsoft	2 in 1 Convertible	HD 1920x1080 	Intel Xeon E3-1505M 	20	2TB SATA SSD	Intel Iris Xe Graphics	macOS
+Acer	2 in 1 Convertible	2K	Intel Core i5	20	1TB HDD	Intel Iris Xe Graphics	Windows 10
+Dell	UltraBook	2K	Intel Core i9	20	256GB Flash Storage	AMD Radeon RX 5600M	Windows 10
+MSI	NoteBook	Full HD	Intel Xeon E3-1505M 	20	128 GB SSD	Intel Iris Xe Graphics	macOS
+Microsoft	Business Laptop	2K	AMD A9-Series 9420	20	2TB SATA SSD	AMD Radeon RX 5600M	Windows 11
+hp	NoteBook	4K	Intel Core i9	20	1TB Fusion Drive	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	Business Laptop	Full HD	Intel Pentium Quad Core N4200	20	1TB HDD	AMD Radeon RX 5600M	Windows 11
+lenevo	Business Laptop	2K	Intel Core i7	20	512 GB eMMC	NVIDIA GeForce GTX 1650	macOS
+Acer	2 in 1 Convertible	2K	Intel Pentium Quad Core N4200	20	256GB SSD	AMD Radeon RX 5600M	Windows 10
+lenevo	Business Laptop	Full HD	Intel Atom x5-Z8550	20	1TB HDD	Intel Iris Xe Graphics	Windows 10
+Acer	2 in 1 Convertible	Full HD	AMD Ryzen 5	20	4TB HDD	Intel Iris Xe Graphics	Windows 11
+Apple	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i7	20	2TB SATA SSD	AMD Radeon RX 5600M	macOS
+Microsoft	2 in 1 Convertible	Full HD	Intel Atom x5-Z8550	20	256GB SSD	AMD Radeon RX 5600M	Windows 11
+Acer	Business Laptop	2K	Intel Xeon E3-1505M 	21	2TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+Acer	UltraBook	Full HD	Intel Core i9	21	6TB HDD	Intel Iris Xe Graphics	macOS
+Apple	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	21	1TB Fusion Drive	NVIDIA GeForce GTX 1650	macOS
+Asus	2 in 1 Convertible	4K	AMD Ryzen 5	21	128 GB SSD	NVIDIA GeForce GTX 1650	macOS
+hp	NoteBook	4K	Intel Celeron Dual Core 3855U 	21	512 GB SSD	AMD Radeon RX 5600M	Linux
+Dell	UltraBook	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	21	1TB Fusion Drive	AMD Radeon RX 5600M	Windows 10
+Apple	Business Laptop	2K	Intel Core i9	21	6TB HDD	AMD Radeon RX 5600M	Windows 10
+Dell	WorkStation	2K	Intel Core i5	21	256GB PCIe SSD	NVIDIA GeForce GTX 1650	No OS
+Dell	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	21	512 GB eMMC	Intel Iris Xe Graphics	Windows 11
+Dell	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	21	2TB HDD	Intel Iris Xe Graphics	No OS
+Apple	WorkStation	Full HD	AMD Ryzen 7	21	128 GB PCIe SSD	AMD Radeon RX 5600M	Linux
+hp	UltraBook	Full HD	AMD A9-Series 9420	21	6TB HDD	Intel Iris Xe Graphics	Linux
+hp	Business Laptop	Full HD	Intel Core i9	21	256GB eMMC	AMD Radeon RX 5600M	Windows 11
+Chuwi	UltraBook	4K	AMD Ryzen 5	21	4TB HDD	AMD Radeon RX 5600M	macOS
+Chuwi	UltraBook	HD 1920x1080 	Intel Xeon E3-1505M 	21	512 GB NVMe SSD	AMD Radeon RX 5600M	macOS
+MSI	Gaming	Full HD	AMD A9-Series 9420	21	128 GB PCIe SSD	AMD Radeon RX 5600M	No OS
+MSI	Business Laptop	2K	Intel Pentium Quad Core N4200	21	2TB HDD	AMD Radeon RX 5600M	macOS
+Apple	UltraBook	4K	Intel Core i7	21	1TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+hp	UltraBook	Full HD	AMD Ryzen 5	21	1TB Fusion Drive	NVIDIA GeForce GTX 1650	Windows 11
+hp	Business Laptop	2K	Intel Pentium Quad Core N4200	21	256GB Flash Storage	Intel Iris Xe Graphics	Linux
+lenevo	UltraBook	HD 1920x1080 	Intel Celeron Dual Core 3855U 	22	256GB eMMC	AMD Radeon RX 5600M	No OS
+lenevo	NoteBook	HD 1920x1080 	Intel Core i9	22	256GB eMMC	NVIDIA GeForce GTX 1650	macOS
+hp	2 in 1 Convertible	4K	Intel Xeon E3-1505M 	22	512 GB SSD	AMD Radeon RX 5600M	Linux
+lenevo	Business Laptop	4K	Intel Pentium Quad Core N4200	22	256GB Flash Storage	NVIDIA GeForce GTX 1650	No OS
+Microsoft	Gaming	2K	AMD Ryzen 5	22	1TB HDD	NVIDIA GeForce GTX 1650	Linux
+Apple	UltraBook	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	22	1TB HDD	Intel Iris Xe Graphics	macOS
+Acer	UltraBook	2K	Intel Core i5	22	6TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+Microsoft	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	22	1TB NVMe SSD	Intel Iris Xe Graphics	No OS
+Microsoft	Gaming	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	22	512 GB eMMC	AMD Radeon RX 5600M	No OS
+lenevo	UltraBook	2K	AMD Ryzen 7	22	256GB SSD	Intel Iris Xe Graphics	Windows 11
+Acer	NoteBook	4K	AMD A9-Series 9420	22	1TB HDD	AMD Radeon RX 5600M	Windows 11
+Chuwi	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	22	4TB HDD	AMD Radeon RX 5600M	No OS
+Apple	Business Laptop	Full HD	Intel Atom x5-Z8550	22	1TB SSHD	Intel Iris Xe Graphics	macOS
+Chuwi	Business Laptop	Full HD	Intel Xeon E3-1505M 	22	1TB SSHD	NVIDIA GeForce GTX 1650	macOS
+hp	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	22	512 GB NVMe SSD	Intel Iris Xe Graphics	macOS
+Microsoft	Gaming	4K	Intel Celeron Dual Core 3855U 	22	2TB SATA SSD	NVIDIA GeForce GTX 1650	Linux
+Apple	NoteBook	4K	Intel Core i9	22	512 GB NVMe SSD	AMD Radeon RX 5600M	Linux
+Chuwi	NoteBook	4K	Intel Atom x5-Z8550	22	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Acer	WorkStation	4K	Intel Pentium Quad Core N4200	22	512 GB eMMC	AMD Radeon RX 5600M	Linux
+lenevo	NoteBook	2K	Intel Pentium Quad Core N4200	22	512 GB eMMC	Intel Iris Xe Graphics	Windows 10
+Microsoft	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	22	6TB HDD	NVIDIA GeForce GTX 1650	macOS
+Dell	Business Laptop	HD 1920x1080 	Intel Pentium Quad Core N4200	22	6TB HDD	AMD Radeon RX 5600M	No OS
+Apple	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	22	512 GB eMMC	Intel Iris Xe Graphics	Linux
+Apple	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	22	1TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Dell	WorkStation	Full HD	Intel Core i9	22	2TB HDD	AMD Radeon RX 5600M	macOS
+MSI	WorkStation	HD 1920x1080 	Intel Core i5	22	256GB PCIe SSD	Intel Iris Xe Graphics	No OS
+Apple	WorkStation	4K	Intel Core i5	22	6TB HDD	AMD Radeon RX 5600M	Windows 11
+Chuwi	Gaming	Full HD	AMD Ryzen 7	22	256GB SSD	NVIDIA GeForce GTX 1650	macOS
+Acer	Gaming	Full HD	Intel Pentium Quad Core N4200	22	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Linux
+Microsoft	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	22	256GB SSD	NVIDIA GeForce GTX 1650	macOS
+MSI	WorkStation	IPS Panel Retina Display 2560x1600	Intel Core i9	22	2TB SATA SSD	AMD Radeon RX 5600M	No OS
+Chuwi	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	22	4TB HDD	Intel Iris Xe Graphics	Linux
+Chuwi	Gaming	HD 1920x1080 	AMD A9-Series 9420	22	512 GB SSD	AMD Radeon RX 5600M	Windows 11
+Chuwi	2 in 1 Convertible	4K	AMD A9-Series 9420	23	512 GB NVMe SSD	Intel Iris Xe Graphics	Linux
+hp	NoteBook	2K	Intel Xeon E3-1505M 	23	256GB Flash Storage	Intel Iris Xe Graphics	macOS
+Chuwi	NoteBook	2K	Intel Atom x5-Z8550	23	2TB HDD	NVIDIA GeForce GTX 1650	macOS
+Dell	NoteBook	2K	AMD Ryzen 7	23	1TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Asus	Business Laptop	4K	AMD A9-Series 9420	23	1TB NVMe SSD	AMD Radeon RX 5600M	Windows 10
+Microsoft	UltraBook	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	23	1TB SSHD	NVIDIA GeForce GTX 1650	macOS
+Asus	Gaming	Full HD	Intel Core i9	23	6TB HDD	Intel Iris Xe Graphics	Linux
+Microsoft	NoteBook	HD 1920x1080 	AMD Ryzen 7	23	1TB HDD	Intel Iris Xe Graphics	macOS
+Acer	WorkStation	HD 1920x1080 	Intel Pentium Quad Core N4200	23	128 GB SSD	AMD Radeon RX 5600M	Linux
+Dell	NoteBook	2K	AMD Ryzen 5	23	256GB eMMC	Intel Iris Xe Graphics	Windows 10
+hp	Gaming	4K	Intel Pentium Quad Core N4200	23	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+Dell	Business Laptop	Full HD	AMD A9-Series 9420	23	1TB HDD	NVIDIA GeForce GTX 1650	macOS
+MSI	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	23	1TB Fusion Drive	AMD Radeon RX 5600M	No OS
+lenevo	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	23	128 GB SSD	Intel Iris Xe Graphics	macOS
+Asus	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i9	23	128 GB PCIe SSD	AMD Radeon RX 5600M	macOS
+MSI	Business Laptop	HD 1920x1080 	Intel Xeon E3-1505M 	23	1TB SSHD	Intel Iris Xe Graphics	Windows 10
+Chuwi	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	23	512 GB eMMC	NVIDIA GeForce GTX 1650	No OS
+Microsoft	Business Laptop	4K	AMD Ryzen 7	23	256GB Flash Storage	AMD Radeon RX 5600M	Windows 11
+MSI	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	23	6TB HDD	AMD Radeon RX 5600M	Linux
+Chuwi	Gaming	HD 1920x1080 	Intel Core i9	23	2TB SATA SSD	AMD Radeon RX 5600M	Windows 11
+MSI	NoteBook	IPS Panel Retina Display 2560x1600	Intel Core i5	23	256GB eMMC	Intel Iris Xe Graphics	macOS
+MSI	UltraBook	4K	Intel Core i5	23	2TB NVMe SSD	NVIDIA GeForce GTX 1650	No OS
+MSI	Business Laptop	4K	Intel Core i7	23	1TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Chuwi	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	23	1TB NVMe SSD	Intel Iris Xe Graphics	Windows 11
+Microsoft	NoteBook	Full HD	Intel Pentium Quad Core N4200	23	1TB Fusion Drive	NVIDIA GeForce GTX 1650	Linux
+hp	Gaming	Full HD	Intel Xeon E3-1505M 	24	512 GB eMMC	AMD Radeon RX 5600M	No OS
+Microsoft	2 in 1 Convertible	Full HD	AMD Ryzen 7	24	2TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+Dell	UltraBook	HD 1920x1080 	Intel Xeon E3-1505M 	24	128 GB PCIe SSD	AMD Radeon RX 5600M	macOS
+MSI	Gaming	4K	Intel Core i5	24	256GB PCIe SSD	NVIDIA GeForce GTX 1650	macOS
+Acer	NoteBook	2K	AMD Ryzen 7	24	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Chuwi	NoteBook	4K	Intel Atom x5-Z8550	24	256GB eMMC	AMD Radeon RX 5600M	No OS
+MSI	NoteBook	Full HD	Intel Atom x5-Z8550	24	256GB eMMC	AMD Radeon RX 5600M	macOS
+Microsoft	Business Laptop	4K	AMD Ryzen 7	24	4TB HDD	AMD Radeon RX 5600M	No OS
+Dell	2 in 1 Convertible	HD 1920x1080 	Intel Celeron Dual Core 3855U 	24	256GB SSD	NVIDIA GeForce GTX 1650	Windows 10
+MSI	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	24	1TB Fusion Drive	Intel Iris Xe Graphics	Linux
+Acer	UltraBook	HD 1920x1080 	Intel Xeon E3-1505M 	24	512 GB NVMe SSD	Intel Iris Xe Graphics	macOS
+MSI	Gaming	4K	AMD Ryzen 5	24	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+lenevo	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Core i7	24	6TB HDD	AMD Radeon RX 5600M	No OS
+hp	UltraBook	2K	AMD Ryzen 7	24	1TB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+Asus	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	24	2TB NVMe SSD	NVIDIA GeForce GTX 1650	No OS
+MSI	UltraBook	HD 1920x1080 	Intel Celeron Dual Core 3855U 	24	512 GB NVMe SSD	AMD Radeon RX 5600M	macOS
+Chuwi	Business Laptop	HD 1920x1080 	Intel Pentium Quad Core N4200	24	1TB NVMe SSD	AMD Radeon RX 5600M	Linux
+hp	Business Laptop	2K	Intel Pentium Quad Core N4200	24	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	Gaming	IPS Panel Retina Display 2560x1600	Intel Xeon E3-1505M 	24	256GB SSD	AMD Radeon RX 5600M	Windows 10
+MSI	Business Laptop	4K	AMD Ryzen 7	24	2TB NVMe SSD	AMD Radeon RX 5600M	Windows 10
+Acer	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	24	2TB SATA SSD	Intel Iris Xe Graphics	Windows 10
+Asus	UltraBook	IPS Panel Retina Display 2560x1600	Intel Core i9	24	1TB Fusion Drive	Intel Iris Xe Graphics	No OS
+MSI	2 in 1 Convertible	2K	Intel Core i7	25	512 GB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+Apple	WorkStation	HD 1920x1080 	Intel Atom x5-Z8550	25	1TB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+Acer	WorkStation	2K	AMD Ryzen 7	25	512 GB SSD	AMD Radeon RX 5600M	No OS
+Chuwi	Gaming	2K	Intel Core i9	25	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Asus	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	25	1TB Fusion Drive	NVIDIA GeForce GTX 1650	macOS
+MSI	WorkStation	4K	AMD Ryzen 7	25	512 GB NVMe SSD	AMD Radeon RX 5600M	Windows 10
+Asus	WorkStation	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	25	2TB SATA SSD	Intel Iris Xe Graphics	No OS
+Acer	WorkStation	2K	AMD Ryzen 7	25	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Microsoft	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	25	1TB SSHD	NVIDIA GeForce GTX 1650	No OS
+hp	2 in 1 Convertible	HD 1920x1080 	Intel Atom x5-Z8550	25	2TB SATA SSD	NVIDIA GeForce GTX 1650	No OS
+Apple	WorkStation	Full HD	Intel Core i5	25	256GB PCIe SSD	AMD Radeon RX 5600M	No OS
+Apple	WorkStation	4K	AMD Ryzen 5	25	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+Asus	Gaming	HD 1920x1080 	Intel Core i5	25	256GB SSD	NVIDIA GeForce GTX 1650	macOS
+Apple	WorkStation	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	25	128 GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+MSI	2 in 1 Convertible	HD 1920x1080 	Intel Celeron Dual Core 3855U 	25	2TB HDD	Intel Iris Xe Graphics	Windows 10
+Microsoft	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	25	256GB PCIe SSD	Intel Iris Xe Graphics	macOS
+Acer	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Pentium Quad Core N4200	25	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Acer	UltraBook	2K	AMD Ryzen 5	25	4TB HDD	Intel Iris Xe Graphics	No OS
+Acer	Business Laptop	HD 1920x1080 	Intel Core i7	25	6TB HDD	AMD Radeon RX 5600M	Windows 10
+Chuwi	UltraBook	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	25	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 10
+hp	UltraBook	4K	Intel Core i7	25	4TB HDD	Intel Iris Xe Graphics	Windows 11
+lenevo	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	25	512 GB NVMe SSD	AMD Radeon RX 5600M	Linux
+Asus	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	25	512 GB eMMC	AMD Radeon RX 5600M	Linux
+Dell	UltraBook	Full HD	Intel Xeon E3-1505M 	25	1TB HDD	NVIDIA GeForce GTX 1650	Linux
+Microsoft	WorkStation	2K	Intel Celeron Dual Core 3855U 	25	4TB HDD	Intel Iris Xe Graphics	Windows 11
+Asus	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	25	256GB SSD	AMD Radeon RX 5600M	macOS
+MSI	Gaming	Full HD	Intel Core i5	25	6TB HDD	Intel Iris Xe Graphics	No OS
+Acer	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	25	128 GB SSD	NVIDIA GeForce GTX 1650	macOS
+Dell	2 in 1 Convertible	HD 1920x1080 	Intel Celeron Dual Core 3855U 	25	2TB NVMe SSD	AMD Radeon RX 5600M	Windows 11
+Microsoft	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	25	256GB eMMC	AMD Radeon RX 5600M	No OS
+Chuwi	Business Laptop	2K	AMD Ryzen 7	25	128 GB SSD	AMD Radeon RX 5600M	No OS
+Dell	WorkStation	IPS Panel Retina Display 2560x1600	Intel Core i7	25	4TB HDD	NVIDIA GeForce GTX 1650	No OS
+Acer	Business Laptop	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	25	1TB HDD	Intel Iris Xe Graphics	Linux
+hp	2 in 1 Convertible	4K	Intel Atom x5-Z8550	25	1TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 10
+hp	NoteBook	Full HD	Intel Core i5	25	6TB HDD	AMD Radeon RX 5600M	Linux
+Apple	WorkStation	IPS Panel Retina Display 2560x1600	Intel Core i9	25	256GB Flash Storage	NVIDIA GeForce GTX 1650	Windows 11
+MSI	Gaming	Full HD	AMD Ryzen 5	25	4TB HDD	NVIDIA GeForce GTX 1650	macOS
+MSI	NoteBook	4K	Intel Core i5	25	256GB Flash Storage	NVIDIA GeForce GTX 1650	Windows 10
+Asus	UltraBook	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	25	512 GB SSD	AMD Radeon RX 5600M	No OS
+MSI	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	25	512 GB eMMC	NVIDIA GeForce GTX 1650	macOS
+MSI	Gaming	4K	Intel Core i7	26	1TB SSHD	Intel Iris Xe Graphics	macOS
+Acer	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	26	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	Gaming	Full HD	AMD Ryzen 5	26	256GB PCIe SSD	AMD Radeon RX 5600M	macOS
+hp	2 in 1 Convertible	HD 1920x1080 	AMD A9-Series 9420	26	1TB NVMe SSD	Intel Iris Xe Graphics	No OS
+hp	Business Laptop	HD 1920x1080 	Intel Atom x5-Z8550	26	2TB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+Acer	WorkStation	4K	AMD Ryzen 7	26	2TB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+hp	Gaming	2K	Intel Xeon E3-1505M 	26	128 GB PCIe SSD	Intel Iris Xe Graphics	macOS
+Chuwi	NoteBook	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	26	1TB Fusion Drive	AMD Radeon RX 5600M	Windows 11
+hp	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	26	2TB NVMe SSD	AMD Radeon RX 5600M	macOS
+Apple	Business Laptop	4K	Intel Core i5	26	4TB HDD	AMD Radeon RX 5600M	Windows 10
+Apple	2 in 1 Convertible	4K	AMD Ryzen 5	26	128 GB SSD	NVIDIA GeForce GTX 1650	No OS
+MSI	Business Laptop	4K	Intel Celeron Dual Core 3855U 	26	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+Microsoft	Business Laptop	HD 1920x1080 	AMD Ryzen 7	26	6TB HDD	Intel Iris Xe Graphics	macOS
+Asus	NoteBook	4K	Intel Pentium Quad Core N4200	26	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+Microsoft	Business Laptop	IPS Panel Retina Display 2560x1600	Intel Xeon E3-1505M 	26	1TB HDD	AMD Radeon RX 5600M	macOS
+Apple	NoteBook	2K	Intel Core i7	26	2TB NVMe SSD	AMD Radeon RX 5600M	No OS
+Asus	Business Laptop	Full HD	AMD Ryzen 5	26	256GB SSD	Intel Iris Xe Graphics	Linux
+MSI	Business Laptop	Full HD	Intel Celeron Dual Core 3855U 	26	512 GB SSD	AMD Radeon RX 5600M	Linux
+Asus	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	26	256GB eMMC	NVIDIA GeForce GTX 1650	Linux
+hp	WorkStation	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	26	256GB Flash Storage	Intel Iris Xe Graphics	Windows 10
+Chuwi	Gaming	2K	Intel Xeon E3-1505M 	26	1TB SSHD	Intel Iris Xe Graphics	Linux
+Chuwi	NoteBook	4K	AMD Ryzen 5	26	128 GB SSD	Intel Iris Xe Graphics	macOS
+MSI	Gaming	HD 1920x1080 	AMD A9-Series 9420	26	4TB HDD	Intel Iris Xe Graphics	Windows 10
+lenevo	WorkStation	HD 1920x1080 	AMD Ryzen 5	27	256GB SSD	AMD Radeon RX 5600M	macOS
+Asus	NoteBook	4K	Intel Celeron Dual Core 3855U 	27	1TB SSHD	AMD Radeon RX 5600M	macOS
+lenevo	UltraBook	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	27	4TB HDD	Intel Iris Xe Graphics	macOS
+Microsoft	2 in 1 Convertible	HD 1920x1080 	Intel Xeon E3-1505M 	27	256GB eMMC	NVIDIA GeForce GTX 1650	macOS
+Microsoft	NoteBook	4K	Intel Core i5	27	512 GB SSD	NVIDIA GeForce GTX 1650	macOS
+Dell	Gaming	4K	Intel Core i7	27	128 GB SSD	NVIDIA GeForce GTX 1650	Linux
+lenevo	UltraBook	HD 1920x1080 	Intel Pentium Quad Core N4200	27	512 GB eMMC	Intel Iris Xe Graphics	No OS
+Apple	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	27	256GB PCIe SSD	Intel Iris Xe Graphics	No OS
+Microsoft	2 in 1 Convertible	4K	Intel Pentium Quad Core N4200	27	256GB eMMC	AMD Radeon RX 5600M	macOS
+Chuwi	NoteBook	4K	Intel Core i7	27	512 GB eMMC	AMD Radeon RX 5600M	No OS
+Acer	WorkStation	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	27	2TB HDD	NVIDIA GeForce GTX 1650	macOS
+Apple	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Core i5	27	1TB HDD	Intel Iris Xe Graphics	No OS
+MSI	Gaming	Full HD	AMD Ryzen 7	27	512 GB eMMC	NVIDIA GeForce GTX 1650	No OS
+Chuwi	Business Laptop	Full HD	Intel Atom x5-Z8550	27	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Dell	NoteBook	Full HD	Intel Core i5	27	4TB HDD	NVIDIA GeForce GTX 1650	No OS
+lenevo	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	27	256GB SSD	AMD Radeon RX 5600M	No OS
+Dell	WorkStation	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	27	1TB HDD	Intel Iris Xe Graphics	Windows 10
+Dell	2 in 1 Convertible	Full HD	Intel Core i7	27	1TB NVMe SSD	Intel Iris Xe Graphics	Linux
+hp	2 in 1 Convertible	4K	AMD Ryzen 7	27	512 GB SSD	Intel Iris Xe Graphics	Windows 10
+Acer	Gaming	IPS Panel Retina Display 2560x1600	Intel Core i7	28	1TB SSHD	AMD Radeon RX 5600M	Linux
+Apple	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	AMD Ryzen 5	28	1TB HDD	AMD Radeon RX 5600M	Windows 10
+Acer	2 in 1 Convertible	2K	Intel Pentium Quad Core N4200	28	2TB NVMe SSD	AMD Radeon RX 5600M	Windows 10
+lenevo	NoteBook	4K	AMD Ryzen 5	28	128 GB PCIe SSD	NVIDIA GeForce GTX 1650	Linux
+Apple	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	28	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	No OS
+MSI	Business Laptop	IPS Panel Retina Display 2560x1600	AMD Ryzen 5	28	256GB SSD	AMD Radeon RX 5600M	Linux
+MSI	Gaming	4K	AMD A9-Series 9420	28	2TB SATA SSD	Intel Iris Xe Graphics	Windows 10
+Apple	WorkStation	2K	Intel Core i5	28	4TB HDD	Intel Iris Xe Graphics	Linux
+hp	NoteBook	Full HD	Intel Atom x5-Z8550	28	512 GB NVMe SSD	NVIDIA GeForce GTX 1650	Linux
+Microsoft	Business Laptop	Full HD	Intel Pentium Quad Core N4200	28	1TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Acer	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	28	128 GB SSD	AMD Radeon RX 5600M	macOS
+hp	NoteBook	2K	AMD A9-Series 9420	28	4TB HDD	Intel Iris Xe Graphics	No OS
+Acer	Gaming	4K	Intel Core i9	28	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 11
+MSI	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	28	256GB SSD	AMD Radeon RX 5600M	Linux
+hp	Gaming	IPS Panel Retina Display 2560x1600	AMD Ryzen 7	28	256GB SSD	AMD Radeon RX 5600M	macOS
+Chuwi	Gaming	2K	Intel Celeron Dual Core 3855U 	28	128 GB PCIe SSD	Intel Iris Xe Graphics	macOS
+hp	NoteBook	2K	AMD Ryzen 5	28	128 GB SSD	AMD Radeon RX 5600M	Linux
+Apple	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	28	1TB HDD	NVIDIA GeForce GTX 1650	macOS
+Acer	WorkStation	2K	AMD A9-Series 9420	29	1TB Fusion Drive	Intel Iris Xe Graphics	Windows 11
+Microsoft	UltraBook	4K	AMD A9-Series 9420	29	256GB Flash Storage	Intel Iris Xe Graphics	Linux
+Microsoft	WorkStation	HD 1920x1080 	Intel Core i5	29	2TB HDD	Intel Iris Xe Graphics	No OS
+lenevo	UltraBook	2K	AMD Ryzen 7	29	512 GB eMMC	Intel Iris Xe Graphics	Linux
+Apple	UltraBook	Full HD	AMD Ryzen 5	29	1TB HDD	AMD Radeon RX 5600M	Windows 10
+Microsoft	Gaming	HD 1920x1080 	AMD A9-Series 9420	29	1TB HDD	Intel Iris Xe Graphics	No OS
+Apple	Gaming	2K	Intel Core i7	29	256GB SSD	AMD Radeon RX 5600M	No OS
+Chuwi	2 in 1 Convertible	4K	AMD Ryzen 7	29	256GB PCIe SSD	Intel Iris Xe Graphics	macOS
+Acer	UltraBook	HD 1920x1080 	Intel Celeron Dual Core 3855U 	29	512 GB eMMC	Intel Iris Xe Graphics	macOS
+Dell	Gaming	4K	AMD Ryzen 5	29	1TB HDD	AMD Radeon RX 5600M	No OS
+Microsoft	Business Laptop	2K	Intel Core i7	29	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Asus	Gaming	Full HD	Intel Atom x5-Z8550	29	256GB SSD	AMD Radeon RX 5600M	Linux
+Asus	WorkStation	HD 1920x1080 	Intel Core i5	29	2TB NVMe SSD	AMD Radeon RX 5600M	Windows 11
+MSI	Gaming	HD 1920x1080 	AMD Ryzen 7	29	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 11
+Asus	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	30	1TB Fusion Drive	NVIDIA GeForce GTX 1650	macOS
+Apple	Gaming	4K	AMD A9-Series 9420	30	512 GB SSD	NVIDIA GeForce GTX 1650	Windows 10
+hp	WorkStation	Full HD	Intel Celeron Dual Core 3855U 	30	512 GB NVMe SSD	Intel Iris Xe Graphics	macOS
+Asus	UltraBook	2K	Intel Core i7	30	1TB Fusion Drive	Intel Iris Xe Graphics	No OS
+Dell	UltraBook	Full HD	AMD Ryzen 7	30	256GB SSD	AMD Radeon RX 5600M	macOS
+Acer	UltraBook	2K	Intel Core i7	30	4TB HDD	Intel Iris Xe Graphics	Linux
+lenevo	NoteBook	2K	Intel Core i5	30	512 GB NVMe SSD	AMD Radeon RX 5600M	Linux
+hp	NoteBook	Full HD	Intel Core i9	30	1TB NVMe SSD	NVIDIA GeForce GTX 1650	No OS
+hp	Business Laptop	4K	Intel Core i5	30	1TB SSHD	AMD Radeon RX 5600M	macOS
+Chuwi	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	30	1TB SSHD	Intel Iris Xe Graphics	Windows 10
+Asus	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 7	30	2TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Apple	UltraBook	4K	Intel Celeron Dual Core 3855U 	31	2TB NVMe SSD	NVIDIA GeForce GTX 1650	Windows 11
+Apple	UltraBook	4K	Intel Core i7	31	256GB Flash Storage	Intel Iris Xe Graphics	Windows 10
+Asus	UltraBook	2K	Intel Celeron Dual Core 3855U 	31	1TB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+MSI	WorkStation	2K	Intel Celeron Dual Core 3855U 	31	2TB SATA SSD	NVIDIA GeForce GTX 1650	macOS
+MSI	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	31	256GB eMMC	NVIDIA GeForce GTX 1650	Windows 11
+MSI	Gaming	IPS Panel Retina Display 2560x1600	Intel Atom x5-Z8550	31	256GB Flash Storage	Intel Iris Xe Graphics	Windows 10
+Asus	Gaming	2K	Intel Xeon E3-1505M 	31	2TB SATA SSD	AMD Radeon RX 5600M	Windows 11
+Apple	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	31	256GB PCIe SSD	NVIDIA GeForce GTX 1650	macOS
+Asus	UltraBook	Full HD	Intel Core i9	31	256GB SSD	AMD Radeon RX 5600M	Linux
+Apple	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	31	256GB SSD	Intel Iris Xe Graphics	Windows 10
+MSI	NoteBook	2K	AMD A9-Series 9420	31	1TB NVMe SSD	Intel Iris Xe Graphics	Windows 11
+Dell	2 in 1 Convertible	4K	Intel Core i5	31	2TB HDD	NVIDIA GeForce GTX 1650	macOS
+hp	2 in 1 Convertible	2K	Intel Atom x5-Z8550	31	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Acer	UltraBook	Full HD	Intel Xeon E3-1505M 	31	256GB eMMC	NVIDIA GeForce GTX 1650	macOS
+Acer	Business Laptop	4K	AMD Ryzen 5	31	128 GB SSD	NVIDIA GeForce GTX 1650	No OS
+Asus	Gaming	HD 1920x1080 	AMD Ryzen 5	31	128 GB SSD	NVIDIA GeForce GTX 1650	Windows 10
+Microsoft	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	31	256GB Flash Storage	AMD Radeon RX 5600M	No OS
+Chuwi	WorkStation	IPS Panel Retina Display 2560x1600	Intel Celeron Dual Core 3855U 	31	1TB NVMe SSD	Intel Iris Xe Graphics	Linux
+Asus	Business Laptop	HD 1920x1080 	Intel Core i5	31	4TB HDD	AMD Radeon RX 5600M	Windows 10
+Dell	UltraBook	HD 1920x1080 	Intel Xeon E3-1505M 	31	256GB Flash Storage	AMD Radeon RX 5600M	Windows 11
+Acer	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	31	256GB PCIe SSD	AMD Radeon RX 5600M	macOS
+MSI	2 in 1 Convertible	HD 1920x1080 	Intel Core i7	31	256GB eMMC	AMD Radeon RX 5600M	Windows 10
+hp	UltraBook	4K	AMD Ryzen 5	31	1TB HDD	AMD Radeon RX 5600M	Windows 10
+Asus	Gaming	4K	AMD A9-Series 9420	31	512 GB SSD	NVIDIA GeForce GTX 1650	Windows 10
+lenevo	WorkStation	4K	Intel Celeron Dual Core 3855U 	31	2TB NVMe SSD	AMD Radeon RX 5600M	Linux
+MSI	WorkStation	HD 1920x1080 	Intel Atom x5-Z8550	31	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+Chuwi	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Celeron Dual Core 3855U 	31	1TB HDD	NVIDIA GeForce GTX 1650	macOS
+Microsoft	Gaming	Full HD	Intel Xeon E3-1505M 	31	256GB SSD	AMD Radeon RX 5600M	Windows 11
+lenevo	WorkStation	HD 1920x1080 	Intel Celeron Dual Core 3855U 	31	256GB eMMC	AMD Radeon RX 5600M	macOS
+lenevo	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	31	128 GB SSD	Intel Iris Xe Graphics	Windows 10
+lenevo	WorkStation	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	31	2TB SATA SSD	AMD Radeon RX 5600M	Linux
+Apple	WorkStation	HD 1920x1080 	Intel Xeon E3-1505M 	31	512 GB eMMC	Intel Iris Xe Graphics	No OS
+Acer	2 in 1 Convertible	2K	Intel Xeon E3-1505M 	31	4TB HDD	NVIDIA GeForce GTX 1650	macOS
+lenevo	NoteBook	IPS Panel Retina Display 2560x1600	AMD Ryzen 5	31	512 GB SSD	NVIDIA GeForce GTX 1650	Windows 10
+MSI	NoteBook	4K	Intel Core i9	31	1TB HDD	Intel Iris Xe Graphics	macOS
+Dell	NoteBook	IPS Panel Retina Display 2560x1600	AMD A9-Series 9420	31	512 GB eMMC	NVIDIA GeForce GTX 1650	Windows 11
+hp	UltraBook	2K	Intel Core i7	31	1TB SSHD	Intel Iris Xe Graphics	Windows 10
+Microsoft	Gaming	Full HD	AMD Ryzen 7	31	2TB SATA SSD	NVIDIA GeForce GTX 1650	Windows 11
+Acer	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	31	6TB HDD	NVIDIA GeForce GTX 1650	Windows 10
+Asus	UltraBook	Full HD	AMD A9-Series 9420	31	1TB SSHD	AMD Radeon RX 5600M	No OS
+Acer	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	31	256GB Flash Storage	AMD Radeon RX 5600M	Windows 11
+Apple	2 in 1 Convertible	4K	Intel Core i5	32	6TB HDD	NVIDIA GeForce GTX 1650	Windows 11
+Microsoft	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Atom x5-Z8550	32	2TB SATA SSD	Intel Iris Xe Graphics	Windows 10
+Dell	Gaming	IPS Panel Retina Display 2560x1600	Intel Core i9	32	256GB Flash Storage	NVIDIA GeForce GTX 1650	Linux
+MSI	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	32	2TB SATA SSD	AMD Radeon RX 5600M	Windows 10
+Dell	WorkStation	Full HD	Intel Core i5	32	1TB NVMe SSD	NVIDIA GeForce GTX 1650	macOS
+Acer	2 in 1 Convertible	Full HD	Intel Core i5	32	256GB eMMC	Intel Iris Xe Graphics	macOS
+Asus	NoteBook	2K	Intel Celeron Dual Core 3855U 	32	256GB Flash Storage	Intel Iris Xe Graphics	Windows 11
+Asus	WorkStation	2K	AMD Ryzen 5	32	2TB NVMe SSD	AMD Radeon RX 5600M	macOS
+Dell	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i5	32	1TB SSHD	NVIDIA GeForce GTX 1650	No OS
+lenevo	2 in 1 Convertible	HD 1920x1080 	Intel Core i9	32	256GB PCIe SSD	AMD Radeon RX 5600M	Windows 11
+Dell	Gaming	Full HD	AMD Ryzen 5	32	512 GB eMMC	NVIDIA GeForce GTX 1650	Linux
+Dell	Business Laptop	4K	Intel Core i5	32	1TB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+lenevo	Business Laptop	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i7	32	4TB HDD	Intel Iris Xe Graphics	No OS
+hp	NoteBook	2K	Intel Core i9	32	512 GB eMMC	AMD Radeon RX 5600M	Linux
+Asus	Gaming	4K	Intel Pentium Quad Core N4200	32	1TB Fusion Drive	NVIDIA GeForce GTX 1650	Linux
+MSI	NoteBook	Full HD	Intel Xeon E3-1505M 	32	1TB Fusion Drive	Intel Iris Xe Graphics	No OS
+hp	Gaming	2K	Intel Xeon E3-1505M 	32	256GB PCIe SSD	AMD Radeon RX 5600M	Windows 10
+Apple	Gaming	HD 1920x1080 	Intel Celeron Dual Core 3855U 	32	4TB HDD	Intel Iris Xe Graphics	macOS
+Apple	UltraBook	Full HD	Intel Celeron Dual Core 3855U 	32	256GB PCIe SSD	NVIDIA GeForce GTX 1650	macOS
+hp	2 in 1 Convertible	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	32	256GB PCIe SSD	NVIDIA GeForce GTX 1650	Windows 10
+Apple	Gaming	2K	AMD Ryzen 5	32	512 GB SSD	NVIDIA GeForce GTX 1650	Windows 11
+lenevo	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	32	1TB HDD	NVIDIA GeForce GTX 1650	Linux
+Acer	Gaming	IPS Panel Full HD / Touchscreen 1920x1080	AMD A9-Series 9420	32	6TB HDD	Intel Iris Xe Graphics	Linux
+Apple	2 in 1 Convertible	Full HD	Intel Core i5	32	256GB PCIe SSD	NVIDIA GeForce GTX 1650	No OS
+Acer	NoteBook	2K	Intel Core i5	32	2TB SATA SSD	Intel Iris Xe Graphics	No OS
+lenevo	2 in 1 Convertible	IPS Panel Retina Display 2560x1600	Intel Core i9	32	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+MSI	WorkStation	IPS Panel Full HD / Touchscreen 1920x1080	Intel Core i9	32	512 GB SSD	NVIDIA GeForce GTX 1650	macOS
+Asus	UltraBook	IPS Panel Full HD / Touchscreen 1920x1080	AMD Ryzen 5	32	6TB HDD	Intel Iris Xe Graphics	No OS
+MSI	Business Laptop	Full HD	AMD A9-Series 9420	32	1TB HDD	NVIDIA GeForce GTX 1650	Linux
+Asus	UltraBook	4K	Intel Atom x5-Z8550	32	2TB HDD	NVIDIA GeForce GTX 1650	Linux
+Acer	WorkStation	Full HD	Intel Atom x5-Z8550	32	512 GB eMMC	AMD Radeon RX 5600M	No OS
+MSI	UltraBook	HD 1920x1080 	Intel Core i9	32	1TB SSHD	NVIDIA GeForce GTX 1650	Windows 11
+Microsoft	UltraBook	HD 1920x1080 	Intel Core i9	32	128 GB PCIe SSD	Intel Iris Xe Graphics	Windows 10
+Asus	Gaming	HD 1920x1080 	Intel Core i5	32	1TB HDD	AMD Radeon RX 5600M	macOS
+lenevo	WorkStation	IPS Panel Retina Display 2560x1600	Intel Core i9	32	128 GB SSD	Intel Iris Xe Graphics	Windows 11
+lenevo	2 in 1 Convertible	4K	Intel Celeron Dual Core 3855U 	32	512 GB NVMe SSD	AMD Radeon RX 5600M	No OS
+MSI	WorkStation	Full HD	Intel Pentium Quad Core N4200	32	512 GB eMMC	NVIDIA GeForce GTX 1650	macOS
+MSI	Business Laptop	HD 1920x1080 	Intel Core i9	32	256GB Flash Storage	NVIDIA GeForce GTX 1650	Linux
+Dell	WorkStation	Full HD	AMD Ryzen 7	32	2TB HDD	AMD Radeon RX 5600M	macOS
+MSI	WorkStation	2K	Intel Xeon E3-1505M 	32	2TB SATA SSD	NVIDIA GeForce GTX 1650	No OS
+Acer	Gaming	Full HD	Intel Atom x5-Z8550	32	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+MSI	Gaming	IPS Panel Retina Display 2560x1600	Intel Core i5	32	2TB NVMe SSD	Intel Iris Xe Graphics	Windows 10
+Asus	NoteBook	IPS Panel Full HD / Touchscreen 1920x1080	Intel Xeon E3-1505M 	32	1TB HDD	NVIDIA GeForce GTX 1650	No OS
+MSI	2 in 1 Convertible	4K	Intel Atom x5-Z8550	32	1TB SSHD	NVIDIA GeForce GTX 1650	Linux
+Acer	NoteBook	Full HD	Intel Pentium Quad Core N4200	32	512 GB eMMC	Intel Iris Xe Graphics	Windows 11
+Acer	NoteBook	IPS Panel Retina Display 2560x1600	Intel Pentium Quad Core N4200	33	6TB HDD	AMD Radeon RX 5600M	Windows 10
+MSI	Business Laptop	2K	Intel Pentium Quad Core N4200	33	6TB HDD	Intel Iris Xe Graphics	Windows 10
