@@ -18,6 +18,7 @@ The project implements:
 
 ## Repository Structure
 
+```
 main_repository/
 │
 ├── dataset/
@@ -44,7 +45,7 @@ main_repository/
 ├── description.pdf
 ├── LICENSE
 └── README.md
-
+```
 
 ---
 
